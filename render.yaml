@@ -1,0 +1,18 @@
+services:
+  - type: web
+    name: KoshaSync-api
+    env: python
+    region: oregon
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.0
+      - key: RISK_TOLERANCE_INR
+        value: "500.00"
+      - key: CORS_ORIGINS
+        # Set to the actual deployed Vercel frontend URL after deployment (e.g., https://KoshaSync.vercel.app). Do not leave as wildcard in production.
+        value: "https://KoshaSync.vercel.app"
+      - key: DATA_DIR
+        value: "data"

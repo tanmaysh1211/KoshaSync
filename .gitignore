@@ -1,0 +1,52 @@
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+venv/
+.venv/
+env/
+
+# =========================
+# Environment Variables
+# =========================
+.env
+.env.*
+!.env.example
+!.env.*.example
+
+frontend/.env
+frontend/.env.*
+!frontend/.env.example
+!frontend/.env.*.example
+
+# =========================
+# Logs
+# =========================
+logs/
+*.log
+
+# =========================
+# Node.js / Frontend
+# =========================
+node_modules/
+dist/
+frontend/node_modules/
+frontend/dist/
+
+# =========================
+# IDE & System
+# =========================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# =========================
+# Temporary files
+# =========================
+*.tmp
+*.bak

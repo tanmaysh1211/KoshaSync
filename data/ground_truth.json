@@ -1,0 +1,4802 @@
+{
+    "TXN-3CDF953A": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-3CDF953A",
+        "expected_ledger": "TXN-3CDF953A",
+        "expected_bank": "TXN-3CDF953A",
+        "financial_exposure": 14113.95,
+        "has_duplicate": false
+    },
+    "TXN-4BB7C420": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-4BB7C420",
+        "expected_ledger": "TXN-4BB7C420",
+        "expected_bank": "TXN-4BB7C420",
+        "financial_exposure": 44662.89,
+        "has_duplicate": false
+    },
+    "TXN-35AB98BF": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-35AB98BF",
+        "expected_ledger": "TXN-35AB98BF",
+        "expected_bank": "TXN-35AB98BF",
+        "financial_exposure": 12016.71,
+        "has_duplicate": false
+    },
+    "TXN-875B3628": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-875B3628",
+        "expected_ledger": "TXN-875B3628",
+        "expected_bank": "TXN-875B3628",
+        "financial_exposure": 35215.59,
+        "has_duplicate": false
+    },
+    "TXN-F59E99BA": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-F59E99BA",
+        "expected_ledger": "TXN-F59E99BA ",
+        "expected_bank": "txn-f59e99ba",
+        "financial_exposure": 43530.37,
+        "has_duplicate": false
+    },
+    "TXN-756BACDD": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-756BACDD",
+        "expected_ledger": "TXN-756BACDD",
+        "expected_bank": "TXN-756BACDD",
+        "financial_exposure": 47882.05,
+        "has_duplicate": false
+    },
+    "TXN-C9A67AE1": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-C9A67AE1",
+        "expected_ledger": "TXN-C9A67AE1",
+        "expected_bank": "TXN-C9A67AE1",
+        "financial_exposure": 42450.97,
+        "has_duplicate": false
+    },
+    "TXN-1D674CAC": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-1D674CAC",
+        "expected_ledger": "TXN-1D674CAC",
+        "expected_bank": "TXN-1D674CAC",
+        "financial_exposure": 27043.29,
+        "has_duplicate": false
+    },
+    "TXN-71577E01": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-71577E01",
+        "expected_ledger": "TXN-71577E01",
+        "expected_bank": "TXN-71577E01",
+        "financial_exposure": 44329.86,
+        "has_duplicate": false
+    },
+    "TXN-BA418197": {
+        "scenario": "DUPLICATE",
+        "expected_gateway": "TXN-BA418197",
+        "expected_ledger": "TXN-BA418197",
+        "expected_bank": "TXN-BA418197",
+        "financial_exposure": 38766.88,
+        "has_duplicate": true
+    },
+    "TXN-010AC7A5": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-010AC7A5",
+        "expected_ledger": "TXN-010AC7A5",
+        "expected_bank": "TXN-010AC7A5",
+        "financial_exposure": 22943.81,
+        "has_duplicate": false
+    },
+    "TXN-38668E1B": {
+        "scenario": "GATEWAY_ONLY_ORPHAN",
+        "expected_gateway": "TXN-38668E1B",
+        "expected_ledger": null,
+        "expected_bank": null,
+        "financial_exposure": 33673.67,
+        "has_duplicate": false
+    },
+    "TXN-F834A2AD": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-F834A2AD",
+        "expected_ledger": "TXN-F834A2AD",
+        "expected_bank": "TXN-F834A2AD",
+        "financial_exposure": 8971.36,
+        "has_duplicate": false
+    },
+    "TXN-A9F768A2": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-A9F768A2",
+        "expected_ledger": "TXN-A9F768A2",
+        "expected_bank": "TXN-A9F768A2",
+        "financial_exposure": 49481.41,
+        "has_duplicate": false
+    },
+    "TXN-7D9EE008": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-7D9EE008",
+        "expected_ledger": "TXN-7D9EE008",
+        "expected_bank": "TXN-7D9EE008",
+        "financial_exposure": 41179.23,
+        "has_duplicate": false
+    },
+    "TXN-B5A2A33E": {
+        "scenario": "DUPLICATE",
+        "expected_gateway": "TXN-B5A2A33E",
+        "expected_ledger": "TXN-B5A2A33E",
+        "expected_bank": "TXN-B5A2A33E",
+        "financial_exposure": 45700.24,
+        "has_duplicate": true
+    },
+    "TXN-D00BCC7F": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-D00BCC7F",
+        "expected_ledger": "TXN-D00BCC7F",
+        "expected_bank": "TXN-D00BCC7F",
+        "financial_exposure": 25211.95,
+        "has_duplicate": false
+    },
+    "TXN-78E520A9": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-78E520A9",
+        "expected_ledger": "TXN-78E520A9",
+        "expected_bank": "TXN-78E520A9",
+        "financial_exposure": 28287.72,
+        "has_duplicate": false
+    },
+    "TXN-A42C196E": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-A42C196E",
+        "expected_ledger": "TXN-A42C196E",
+        "expected_bank": "TXN-A42C196E",
+        "financial_exposure": 11356.38,
+        "has_duplicate": false
+    },
+    "TXN-CF9228E9": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-CF9228E9",
+        "expected_ledger": "TXN-CF9228E9",
+        "expected_bank": "TXN-CF9228E9",
+        "financial_exposure": 31558.58,
+        "has_duplicate": false
+    },
+    "TXN-9A33164F": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-9A33164F",
+        "expected_ledger": "TXN-9A33164F",
+        "expected_bank": "TXN-9A33164F",
+        "financial_exposure": 29996.48,
+        "has_duplicate": false
+    },
+    "TXN-2F831615": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-2F831615",
+        "expected_ledger": "txn-2f831615",
+        "expected_bank": "2F831615",
+        "financial_exposure": 27080.03,
+        "has_duplicate": false
+    },
+    "TXN-C8A24340": {
+        "scenario": "DUPLICATE",
+        "expected_gateway": "TXN-C8A24340",
+        "expected_ledger": "TXN-C8A24340",
+        "expected_bank": "TXN-C8A24340",
+        "financial_exposure": 22959.32,
+        "has_duplicate": true
+    },
+    "TXN-8969338E": {
+        "scenario": "DUPLICATE",
+        "expected_gateway": "TXN-8969338E",
+        "expected_ledger": "TXN-8969338E",
+        "expected_bank": "TXN-8969338E",
+        "financial_exposure": 9343.27,
+        "has_duplicate": true
+    },
+    "TXN-0B491840": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-0B491840",
+        "expected_ledger": "TXN-0B491840",
+        "expected_bank": "TXN-0B491840",
+        "financial_exposure": 30644.03,
+        "has_duplicate": false
+    },
+    "TXN-5B083AEC": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-5B083AEC",
+        "expected_ledger": "TXN-5B083AEC",
+        "expected_bank": "TXN-5B083AEC",
+        "financial_exposure": 46160.49,
+        "has_duplicate": false
+    },
+    "TXN-A0BA2C91": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-A0BA2C91",
+        "expected_ledger": "GW/TXN-A0BA2C91",
+        "expected_bank": "A0BA2C91",
+        "financial_exposure": 18467.55,
+        "has_duplicate": false
+    },
+    "TXN-63453F2E": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-63453F2E",
+        "expected_ledger": "GW/TXN-63453F2E",
+        "expected_bank": "GW/TXN-63453F2E",
+        "financial_exposure": 4739.85,
+        "has_duplicate": false
+    },
+    "TXN-E99D89F0": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-E99D89F0",
+        "expected_ledger": "TXN-E99D89F0",
+        "expected_bank": "TXN-E99D89F0",
+        "financial_exposure": 13620.3,
+        "has_duplicate": false
+    },
+    "TXN-01A1630F": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-01A1630F",
+        "expected_ledger": "TXN-01A1630F",
+        "expected_bank": "TXN-01A1630F",
+        "financial_exposure": 10456.98,
+        "has_duplicate": false
+    },
+    "TXN-0328F8F3": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-0328F8F3",
+        "expected_ledger": "TXN-0328F8F3",
+        "expected_bank": "TXN-0328F8F3",
+        "financial_exposure": 26120.0,
+        "has_duplicate": false
+    },
+    "TXN-5F685FE6": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-5F685FE6",
+        "expected_ledger": "TXN-5F685FE6",
+        "expected_bank": "TXN-5F685FE6",
+        "financial_exposure": 29621.28,
+        "has_duplicate": false
+    },
+    "TXN-49F97F6C": {
+        "scenario": "GATEWAY_ONLY_ORPHAN",
+        "expected_gateway": "TXN-49F97F6C",
+        "expected_ledger": null,
+        "expected_bank": null,
+        "financial_exposure": 3414.25,
+        "has_duplicate": false
+    },
+    "TXN-82A16DD4": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-82A16DD4",
+        "expected_ledger": "TXN-82A16DD4",
+        "expected_bank": "TXN-82A16DD4",
+        "financial_exposure": 12281.23,
+        "has_duplicate": false
+    },
+    "TXN-BFB50632": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-BFB50632",
+        "expected_ledger": "GW/TXN-BFB50632",
+        "expected_bank": "BFB50632",
+        "financial_exposure": 12528.36,
+        "has_duplicate": false
+    },
+    "TXN-A0CA1459": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-A0CA1459",
+        "expected_ledger": "TXN-A0CA1459",
+        "expected_bank": "TXN-A0CA1459",
+        "financial_exposure": 18037.73,
+        "has_duplicate": false
+    },
+    "TXN-321D1D44": {
+        "scenario": "DUPLICATE",
+        "expected_gateway": "TXN-321D1D44",
+        "expected_ledger": "TXN-321D1D44",
+        "expected_bank": "TXN-321D1D44",
+        "financial_exposure": 36546.57,
+        "has_duplicate": true
+    },
+    "TXN-4ED7A014": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-4ED7A014",
+        "expected_ledger": "TXN-4ED7A014",
+        "expected_bank": "TXN-4ED7A014",
+        "financial_exposure": 27046.14,
+        "has_duplicate": false
+    },
+    "TXN-9B544D61": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-9B544D61",
+        "expected_ledger": "TXN-9B544D61",
+        "expected_bank": "TXN-9B544D61",
+        "financial_exposure": 43787.05,
+        "has_duplicate": false
+    },
+    "TXN-25ECF669": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-25ECF669",
+        "expected_ledger": "25ECF669",
+        "expected_bank": "GW/TXN-25ECF669",
+        "financial_exposure": 32781.17,
+        "has_duplicate": false
+    },
+    "TXN-8716034F": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-8716034F",
+        "expected_ledger": "TXN-8716034F",
+        "expected_bank": "TXN-8716034F",
+        "financial_exposure": 24327.24,
+        "has_duplicate": false
+    },
+    "TXN-1D09B03F": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-1D09B03F",
+        "expected_ledger": "TXN-1D09B03F",
+        "expected_bank": "TXN-1D09B03F",
+        "financial_exposure": 606.69,
+        "has_duplicate": false
+    },
+    "TXN-B195B7AA": {
+        "scenario": "BANK_ONLY_ORPHAN",
+        "expected_gateway": "TXN-B195B7AA",
+        "expected_ledger": "TXN-B195B7AA",
+        "expected_bank": null,
+        "financial_exposure": 34981.28,
+        "has_duplicate": false
+    },
+    "TXN-A14DAD98": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-A14DAD98",
+        "expected_ledger": "TXN-A14DAD98",
+        "expected_bank": "TXN-A14DAD98",
+        "financial_exposure": 24590.23,
+        "has_duplicate": false
+    },
+    "TXN-AC0B1ACA": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-AC0B1ACA",
+        "expected_ledger": "TXN-AC0B1ACA",
+        "expected_bank": "TXN-AC0B1ACA",
+        "financial_exposure": 27338.66,
+        "has_duplicate": false
+    },
+    "TXN-9036FC16": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-9036FC16",
+        "expected_ledger": "TXN-9036FC16",
+        "expected_bank": "TXN-9036FC16",
+        "financial_exposure": 25391.09,
+        "has_duplicate": false
+    },
+    "TXN-148A919D": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-148A919D",
+        "expected_ledger": "TXN-148A919D",
+        "expected_bank": "TXN-148A919D",
+        "financial_exposure": 9698.34,
+        "has_duplicate": false
+    },
+    "TXN-49881179": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-49881179",
+        "expected_ledger": "TXN-49881179",
+        "expected_bank": "TXN-49881179",
+        "financial_exposure": 47109.01,
+        "has_duplicate": false
+    },
+    "TXN-166E6EEC": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-166E6EEC",
+        "expected_ledger": "TXN-166E6EEC",
+        "expected_bank": "TXN-166E6EEC",
+        "financial_exposure": 4558.18,
+        "has_duplicate": false
+    },
+    "TXN-AEA56E29": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-AEA56E29",
+        "expected_ledger": "TXN-AEA56E29",
+        "expected_bank": "TXN-AEA56E29",
+        "financial_exposure": 35951.49,
+        "has_duplicate": false
+    },
+    "TXN-D861D09C": {
+        "scenario": "GATEWAY_ONLY_ORPHAN",
+        "expected_gateway": "TXN-D861D09C",
+        "expected_ledger": null,
+        "expected_bank": null,
+        "financial_exposure": 15349.86,
+        "has_duplicate": false
+    },
+    "TXN-D55702D9": {
+        "scenario": "BANK_ONLY_ORPHAN",
+        "expected_gateway": "TXN-D55702D9",
+        "expected_ledger": "TXN-D55702D9",
+        "expected_bank": null,
+        "financial_exposure": 31247.38,
+        "has_duplicate": false
+    },
+    "TXN-436730F9": {
+        "scenario": "GATEWAY_ONLY_ORPHAN",
+        "expected_gateway": "TXN-436730F9",
+        "expected_ledger": null,
+        "expected_bank": null,
+        "financial_exposure": 25541.29,
+        "has_duplicate": false
+    },
+    "TXN-C144BD7E": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-C144BD7E",
+        "expected_ledger": "txn-c144bd7e",
+        "expected_bank": "C144BD7E",
+        "financial_exposure": 14606.88,
+        "has_duplicate": false
+    },
+    "TXN-0A8CA466": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-0A8CA466",
+        "expected_ledger": "TXN-0A8CA466",
+        "expected_bank": "TXN-0A8CA466",
+        "financial_exposure": 33337.74,
+        "has_duplicate": false
+    },
+    "TXN-4C266D2A": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-4C266D2A",
+        "expected_ledger": "TXN-4C266D2A",
+        "expected_bank": "TXN-4C266D2A",
+        "financial_exposure": 27884.57,
+        "has_duplicate": false
+    },
+    "TXN-2ECCEE1A": {
+        "scenario": "DUPLICATE",
+        "expected_gateway": "TXN-2ECCEE1A",
+        "expected_ledger": "TXN-2ECCEE1A",
+        "expected_bank": "TXN-2ECCEE1A",
+        "financial_exposure": 10578.07,
+        "has_duplicate": true
+    },
+    "TXN-BC2C483E": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-BC2C483E",
+        "expected_ledger": "TXN-BC2C483E",
+        "expected_bank": "TXN-BC2C483E",
+        "financial_exposure": 45314.16,
+        "has_duplicate": false
+    },
+    "TXN-DA89DA39": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-DA89DA39",
+        "expected_ledger": "TXN-DA89DA39",
+        "expected_bank": "TXN-DA89DA39",
+        "financial_exposure": 675.51,
+        "has_duplicate": false
+    },
+    "TXN-2FEB68F2": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-2FEB68F2",
+        "expected_ledger": "TXN-2FEB68F2",
+        "expected_bank": "TXN-2FEB68F2",
+        "financial_exposure": 22370.86,
+        "has_duplicate": false
+    },
+    "TXN-59A5F282": {
+        "scenario": "GATEWAY_ONLY_ORPHAN",
+        "expected_gateway": "TXN-59A5F282",
+        "expected_ledger": null,
+        "expected_bank": null,
+        "financial_exposure": 47280.02,
+        "has_duplicate": false
+    },
+    "TXN-09B93B45": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-09B93B45",
+        "expected_ledger": "TXN-09B93B45",
+        "expected_bank": "TXN-09B93B45",
+        "financial_exposure": 18776.19,
+        "has_duplicate": false
+    },
+    "TXN-4E73EF20": {
+        "scenario": "BANK_ONLY_ORPHAN",
+        "expected_gateway": "TXN-4E73EF20",
+        "expected_ledger": "TXN-4E73EF20",
+        "expected_bank": null,
+        "financial_exposure": 18550.25,
+        "has_duplicate": false
+    },
+    "TXN-69289417": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-69289417",
+        "expected_ledger": "TXN-69289417",
+        "expected_bank": "TXN-69289417",
+        "financial_exposure": 34262.3,
+        "has_duplicate": false
+    },
+    "TXN-EB9BFA16": {
+        "scenario": "DUPLICATE",
+        "expected_gateway": "TXN-EB9BFA16",
+        "expected_ledger": "TXN-EB9BFA16",
+        "expected_bank": "TXN-EB9BFA16",
+        "financial_exposure": 37599.14,
+        "has_duplicate": true
+    },
+    "TXN-EE490EC0": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-EE490EC0",
+        "expected_ledger": "TXN-EE490EC0 ",
+        "expected_bank": "GW/TXN-EE490EC0",
+        "financial_exposure": 9378.35,
+        "has_duplicate": false
+    },
+    "TXN-2EFF534C": {
+        "scenario": "DUPLICATE",
+        "expected_gateway": "TXN-2EFF534C",
+        "expected_ledger": "TXN-2EFF534C",
+        "expected_bank": "TXN-2EFF534C",
+        "financial_exposure": 35213.27,
+        "has_duplicate": true
+    },
+    "TXN-15AE4FD7": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-15AE4FD7",
+        "expected_ledger": "TXN-15AE4FD7",
+        "expected_bank": "TXN-15AE4FD7",
+        "financial_exposure": 40921.04,
+        "has_duplicate": false
+    },
+    "TXN-0D3C6ACD": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-0D3C6ACD",
+        "expected_ledger": "TXN-0D3C6ACD",
+        "expected_bank": "TXN-0D3C6ACD",
+        "financial_exposure": 33171.64,
+        "has_duplicate": false
+    },
+    "TXN-09283E1A": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-09283E1A",
+        "expected_ledger": "TXN-09283E1A",
+        "expected_bank": "TXN-09283E1A",
+        "financial_exposure": 32253.35,
+        "has_duplicate": false
+    },
+    "TXN-3F4EFDAF": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-3F4EFDAF",
+        "expected_ledger": "TXN-3F4EFDAF",
+        "expected_bank": "TXN-3F4EFDAF",
+        "financial_exposure": 43913.4,
+        "has_duplicate": false
+    },
+    "TXN-F5A3160B": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-F5A3160B",
+        "expected_ledger": "TXN-F5A3160B",
+        "expected_bank": "TXN-F5A3160B",
+        "financial_exposure": 30030.28,
+        "has_duplicate": false
+    },
+    "TXN-5287087F": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-5287087F",
+        "expected_ledger": "TXN-5287087F",
+        "expected_bank": "TXN-5287087F",
+        "financial_exposure": 6224.47,
+        "has_duplicate": false
+    },
+    "TXN-31DAE218": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-31DAE218",
+        "expected_ledger": "TXN-31DAE218",
+        "expected_bank": "TXN-31DAE218",
+        "financial_exposure": 583.72,
+        "has_duplicate": false
+    },
+    "TXN-ABA710A5": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-ABA710A5",
+        "expected_ledger": "TXN-ABA710A5",
+        "expected_bank": "TXN-ABA710A5",
+        "financial_exposure": 47469.29,
+        "has_duplicate": false
+    },
+    "TXN-216416A5": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-216416A5",
+        "expected_ledger": "TXN-216416A5",
+        "expected_bank": "TXN-216416A5",
+        "financial_exposure": 15365.95,
+        "has_duplicate": false
+    },
+    "TXN-01F13FCF": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-01F13FCF",
+        "expected_ledger": "TXN-01F13FCF",
+        "expected_bank": "TXN-01F13FCF",
+        "financial_exposure": 27943.42,
+        "has_duplicate": false
+    },
+    "TXN-92C76749": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-92C76749",
+        "expected_ledger": "TXN-92C76749",
+        "expected_bank": "TXN-92C76749",
+        "financial_exposure": 45188.87,
+        "has_duplicate": false
+    },
+    "TXN-49ABBFB6": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-49ABBFB6",
+        "expected_ledger": "txn-49abbfb6",
+        "expected_bank": "TXN-49ABBFB6 ",
+        "financial_exposure": 14702.23,
+        "has_duplicate": false
+    },
+    "TXN-5C10410E": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-5C10410E",
+        "expected_ledger": "GW/TXN-5C10410E",
+        "expected_bank": "5C10410E",
+        "financial_exposure": 11078.22,
+        "has_duplicate": false
+    },
+    "TXN-99EB0351": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-99EB0351",
+        "expected_ledger": "TXN-99EB0351",
+        "expected_bank": "TXN-99EB0351",
+        "financial_exposure": 31830.57,
+        "has_duplicate": false
+    },
+    "TXN-99AB68ED": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-99AB68ED",
+        "expected_ledger": "TXN-99AB68ED",
+        "expected_bank": "TXN-99AB68ED",
+        "financial_exposure": 11619.71,
+        "has_duplicate": false
+    },
+    "TXN-0395C997": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-0395C997",
+        "expected_ledger": "TXN-0395C997",
+        "expected_bank": "TXN-0395C997",
+        "financial_exposure": 30758.06,
+        "has_duplicate": false
+    },
+    "TXN-03429122": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-03429122",
+        "expected_ledger": "TXN-03429122",
+        "expected_bank": "TXN-03429122",
+        "financial_exposure": 10124.54,
+        "has_duplicate": false
+    },
+    "TXN-1E266036": {
+        "scenario": "DUPLICATE",
+        "expected_gateway": "TXN-1E266036",
+        "expected_ledger": "TXN-1E266036",
+        "expected_bank": "TXN-1E266036",
+        "financial_exposure": 32974.87,
+        "has_duplicate": true
+    },
+    "TXN-7FDEEEB9": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-7FDEEEB9",
+        "expected_ledger": "TXN-7FDEEEB9",
+        "expected_bank": "TXN-7FDEEEB9",
+        "financial_exposure": 9206.39,
+        "has_duplicate": false
+    },
+    "TXN-31473185": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-31473185",
+        "expected_ledger": "TXN-31473185",
+        "expected_bank": "TXN-31473185",
+        "financial_exposure": 42492.65,
+        "has_duplicate": false
+    },
+    "TXN-8E0CB2A9": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-8E0CB2A9",
+        "expected_ledger": "TXN-8E0CB2A9",
+        "expected_bank": "TXN-8E0CB2A9",
+        "financial_exposure": 49400.68,
+        "has_duplicate": false
+    },
+    "TXN-3B74CFB4": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-3B74CFB4",
+        "expected_ledger": "TXN-3B74CFB4",
+        "expected_bank": "TXN-3B74CFB4",
+        "financial_exposure": 36104.06,
+        "has_duplicate": false
+    },
+    "TXN-3FEF43CF": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-3FEF43CF",
+        "expected_ledger": "TXN-3FEF43CF",
+        "expected_bank": "TXN-3FEF43CF",
+        "financial_exposure": 8378.32,
+        "has_duplicate": false
+    },
+    "TXN-38ABE3C1": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-38ABE3C1",
+        "expected_ledger": "TXN-38ABE3C1",
+        "expected_bank": "TXN-38ABE3C1",
+        "financial_exposure": 38407.78,
+        "has_duplicate": false
+    },
+    "TXN-9830CDE5": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-9830CDE5",
+        "expected_ledger": "TXN-9830CDE5",
+        "expected_bank": "TXN-9830CDE5",
+        "financial_exposure": 35820.47,
+        "has_duplicate": false
+    },
+    "TXN-D0A1F0DC": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-D0A1F0DC",
+        "expected_ledger": "TXN-D0A1F0DC",
+        "expected_bank": "TXN-D0A1F0DC",
+        "financial_exposure": 7349.52,
+        "has_duplicate": false
+    },
+    "TXN-EADB6493": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-EADB6493",
+        "expected_ledger": "TXN-EADB6493",
+        "expected_bank": "TXN-EADB6493",
+        "financial_exposure": 3679.33,
+        "has_duplicate": false
+    },
+    "TXN-B653F0FC": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-B653F0FC",
+        "expected_ledger": "TXN-B653F0FC",
+        "expected_bank": "TXN-B653F0FC",
+        "financial_exposure": 10738.3,
+        "has_duplicate": false
+    },
+    "TXN-ACA244A9": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-ACA244A9",
+        "expected_ledger": "TXN-ACA244A9",
+        "expected_bank": "TXN-ACA244A9",
+        "financial_exposure": 42908.24,
+        "has_duplicate": false
+    },
+    "TXN-C78A9947": {
+        "scenario": "DUPLICATE",
+        "expected_gateway": "TXN-C78A9947",
+        "expected_ledger": "TXN-C78A9947",
+        "expected_bank": "TXN-C78A9947",
+        "financial_exposure": 37797.02,
+        "has_duplicate": true
+    },
+    "TXN-244FB1F3": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-244FB1F3",
+        "expected_ledger": "TXN-244FB1F3",
+        "expected_bank": "TXN-244FB1F3",
+        "financial_exposure": 36864.39,
+        "has_duplicate": false
+    },
+    "TXN-5803C890": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-5803C890",
+        "expected_ledger": "TXN-5803C890",
+        "expected_bank": "TXN-5803C890",
+        "financial_exposure": 22073.88,
+        "has_duplicate": false
+    },
+    "TXN-CEFCE53D": {
+        "scenario": "BANK_ONLY_ORPHAN",
+        "expected_gateway": "TXN-CEFCE53D",
+        "expected_ledger": "TXN-CEFCE53D",
+        "expected_bank": null,
+        "financial_exposure": 42105.03,
+        "has_duplicate": false
+    },
+    "TXN-9D8D327C": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-9D8D327C",
+        "expected_ledger": "TXN-9D8D327C",
+        "expected_bank": "TXN-9D8D327C",
+        "financial_exposure": 20004.0,
+        "has_duplicate": false
+    },
+    "TXN-6C1D682F": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-6C1D682F",
+        "expected_ledger": "TXN-6C1D682F",
+        "expected_bank": "TXN-6C1D682F",
+        "financial_exposure": 23354.07,
+        "has_duplicate": false
+    },
+    "TXN-7C148B58": {
+        "scenario": "DUPLICATE",
+        "expected_gateway": "TXN-7C148B58",
+        "expected_ledger": "TXN-7C148B58",
+        "expected_bank": "TXN-7C148B58",
+        "financial_exposure": 16678.87,
+        "has_duplicate": true
+    },
+    "TXN-E91D5A10": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-E91D5A10",
+        "expected_ledger": "TXN-E91D5A10",
+        "expected_bank": "TXN-E91D5A10",
+        "financial_exposure": 41828.09,
+        "has_duplicate": false
+    },
+    "TXN-0AB82196": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-0AB82196",
+        "expected_ledger": "0AB82196",
+        "expected_bank": "0AB82196",
+        "financial_exposure": 11599.0,
+        "has_duplicate": false
+    },
+    "TXN-D380BF59": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-D380BF59",
+        "expected_ledger": "TXN-D380BF59",
+        "expected_bank": "TXN-D380BF59",
+        "financial_exposure": 1508.81,
+        "has_duplicate": false
+    },
+    "TXN-047FA70F": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-047FA70F",
+        "expected_ledger": "TXN-047FA70F",
+        "expected_bank": "TXN-047FA70F",
+        "financial_exposure": 28416.49,
+        "has_duplicate": false
+    },
+    "TXN-23FFD37A": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-23FFD37A",
+        "expected_ledger": "TXN-23FFD37A",
+        "expected_bank": "TXN-23FFD37A",
+        "financial_exposure": 30558.75,
+        "has_duplicate": false
+    },
+    "TXN-6848A899": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-6848A899",
+        "expected_ledger": "TXN-6848A899",
+        "expected_bank": "TXN-6848A899",
+        "financial_exposure": 1771.08,
+        "has_duplicate": false
+    },
+    "TXN-176565DC": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-176565DC",
+        "expected_ledger": "GW/TXN-176565DC",
+        "expected_bank": "176565DC",
+        "financial_exposure": 4261.83,
+        "has_duplicate": false
+    },
+    "TXN-CD1280D5": {
+        "scenario": "BANK_ONLY_ORPHAN",
+        "expected_gateway": "TXN-CD1280D5",
+        "expected_ledger": "TXN-CD1280D5",
+        "expected_bank": null,
+        "financial_exposure": 40373.63,
+        "has_duplicate": false
+    },
+    "TXN-3BD819EA": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-3BD819EA",
+        "expected_ledger": "TXN-3BD819EA",
+        "expected_bank": "TXN-3BD819EA",
+        "financial_exposure": 21704.71,
+        "has_duplicate": false
+    },
+    "TXN-BD3F681F": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-BD3F681F",
+        "expected_ledger": "TXN-BD3F681F",
+        "expected_bank": "TXN-BD3F681F",
+        "financial_exposure": 21292.91,
+        "has_duplicate": false
+    },
+    "TXN-3196E8E3": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-3196E8E3",
+        "expected_ledger": "TXN-3196E8E3",
+        "expected_bank": "TXN-3196E8E3",
+        "financial_exposure": 41521.01,
+        "has_duplicate": false
+    },
+    "TXN-23F9FA2C": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-23F9FA2C",
+        "expected_ledger": "TXN-23F9FA2C",
+        "expected_bank": "TXN-23F9FA2C",
+        "financial_exposure": 48290.95,
+        "has_duplicate": false
+    },
+    "TXN-598C341D": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-598C341D",
+        "expected_ledger": "TXN-598C341D",
+        "expected_bank": "TXN-598C341D",
+        "financial_exposure": 41373.86,
+        "has_duplicate": false
+    },
+    "TXN-E087C448": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-E087C448",
+        "expected_ledger": "TXN-E087C448 ",
+        "expected_bank": "txn-e087c448",
+        "financial_exposure": 44140.74,
+        "has_duplicate": false
+    },
+    "TXN-E4982F2B": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-E4982F2B",
+        "expected_ledger": "TXN-E4982F2B",
+        "expected_bank": "TXN-E4982F2B",
+        "financial_exposure": 16588.2,
+        "has_duplicate": false
+    },
+    "TXN-52228CB1": {
+        "scenario": "DUPLICATE",
+        "expected_gateway": "TXN-52228CB1",
+        "expected_ledger": "TXN-52228CB1",
+        "expected_bank": "TXN-52228CB1",
+        "financial_exposure": 44075.84,
+        "has_duplicate": true
+    },
+    "TXN-8F186058": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-8F186058",
+        "expected_ledger": "TXN-8F186058",
+        "expected_bank": "TXN-8F186058",
+        "financial_exposure": 47429.1,
+        "has_duplicate": false
+    },
+    "TXN-47EB256E": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-47EB256E",
+        "expected_ledger": "TXN-47EB256E",
+        "expected_bank": "TXN-47EB256E",
+        "financial_exposure": 38029.15,
+        "has_duplicate": false
+    },
+    "TXN-28B9615D": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-28B9615D",
+        "expected_ledger": "TXN-28B9615D",
+        "expected_bank": "TXN-28B9615D",
+        "financial_exposure": 15064.66,
+        "has_duplicate": false
+    },
+    "TXN-98DB8FEC": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-98DB8FEC",
+        "expected_ledger": "TXN-98DB8FEC",
+        "expected_bank": "TXN-98DB8FEC",
+        "financial_exposure": 27896.91,
+        "has_duplicate": false
+    },
+    "TXN-17100BDA": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-17100BDA",
+        "expected_ledger": "TXN-17100BDA",
+        "expected_bank": "TXN-17100BDA",
+        "financial_exposure": 35291.32,
+        "has_duplicate": false
+    },
+    "TXN-3070F1BB": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-3070F1BB",
+        "expected_ledger": "TXN-3070F1BB",
+        "expected_bank": "TXN-3070F1BB",
+        "financial_exposure": 10032.92,
+        "has_duplicate": false
+    },
+    "TXN-4589A7DE": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-4589A7DE",
+        "expected_ledger": "TXN-4589A7DE",
+        "expected_bank": "TXN-4589A7DE",
+        "financial_exposure": 37060.93,
+        "has_duplicate": false
+    },
+    "TXN-2A48E518": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-2A48E518",
+        "expected_ledger": "TXN-2A48E518",
+        "expected_bank": "TXN-2A48E518",
+        "financial_exposure": 41715.1,
+        "has_duplicate": false
+    },
+    "TXN-E8325D8E": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-E8325D8E",
+        "expected_ledger": "TXN-E8325D8E",
+        "expected_bank": "TXN-E8325D8E",
+        "financial_exposure": 35546.92,
+        "has_duplicate": false
+    },
+    "TXN-946DC897": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-946DC897",
+        "expected_ledger": "TXN-946DC897",
+        "expected_bank": "TXN-946DC897",
+        "financial_exposure": 35022.16,
+        "has_duplicate": false
+    },
+    "TXN-C7BD890A": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-C7BD890A",
+        "expected_ledger": "TXN-C7BD890A",
+        "expected_bank": "TXN-C7BD890A",
+        "financial_exposure": 14574.8,
+        "has_duplicate": false
+    },
+    "TXN-563AE725": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-563AE725",
+        "expected_ledger": "TXN-563AE725",
+        "expected_bank": "TXN-563AE725",
+        "financial_exposure": 47082.65,
+        "has_duplicate": false
+    },
+    "TXN-6EF9F402": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-6EF9F402",
+        "expected_ledger": "TXN-6EF9F402",
+        "expected_bank": "TXN-6EF9F402",
+        "financial_exposure": 4167.07,
+        "has_duplicate": false
+    },
+    "TXN-25785A7E": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-25785A7E",
+        "expected_ledger": "TXN-25785A7E",
+        "expected_bank": "TXN-25785A7E",
+        "financial_exposure": 4716.45,
+        "has_duplicate": false
+    },
+    "TXN-51B8DEDA": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-51B8DEDA",
+        "expected_ledger": "TXN-51B8DEDA ",
+        "expected_bank": "TXN-51B8DEDA ",
+        "financial_exposure": 39641.67,
+        "has_duplicate": false
+    },
+    "TXN-1C720869": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-1C720869",
+        "expected_ledger": "TXN-1C720869",
+        "expected_bank": "TXN-1C720869",
+        "financial_exposure": 29631.99,
+        "has_duplicate": false
+    },
+    "TXN-81BCFDCF": {
+        "scenario": "LEDGER_ONLY_ORPHAN",
+        "expected_gateway": "TXN-81BCFDCF",
+        "expected_ledger": null,
+        "expected_bank": "TXN-81BCFDCF",
+        "financial_exposure": 48025.38,
+        "has_duplicate": false
+    },
+    "TXN-08A26745": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-08A26745",
+        "expected_ledger": "TXN-08A26745",
+        "expected_bank": "TXN-08A26745",
+        "financial_exposure": 13599.98,
+        "has_duplicate": false
+    },
+    "TXN-816D3C00": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-816D3C00",
+        "expected_ledger": "TXN-816D3C00",
+        "expected_bank": "TXN-816D3C00",
+        "financial_exposure": 8248.36,
+        "has_duplicate": false
+    },
+    "TXN-EEB05C75": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-EEB05C75",
+        "expected_ledger": "TXN-EEB05C75",
+        "expected_bank": "TXN-EEB05C75",
+        "financial_exposure": 14761.19,
+        "has_duplicate": false
+    },
+    "TXN-C3F683FA": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-C3F683FA",
+        "expected_ledger": "GW/TXN-C3F683FA",
+        "expected_bank": "TXN-C3F683FA ",
+        "financial_exposure": 46233.6,
+        "has_duplicate": false
+    },
+    "TXN-69929B18": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-69929B18",
+        "expected_ledger": "69929B18",
+        "expected_bank": "69929B18",
+        "financial_exposure": 32557.92,
+        "has_duplicate": false
+    },
+    "TXN-0B123B23": {
+        "scenario": "GATEWAY_ONLY_ORPHAN",
+        "expected_gateway": "TXN-0B123B23",
+        "expected_ledger": null,
+        "expected_bank": null,
+        "financial_exposure": 37573.41,
+        "has_duplicate": false
+    },
+    "TXN-C6334FDE": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-C6334FDE",
+        "expected_ledger": "TXN-C6334FDE",
+        "expected_bank": "TXN-C6334FDE",
+        "financial_exposure": 34589.56,
+        "has_duplicate": false
+    },
+    "TXN-F2EC1CBE": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-F2EC1CBE",
+        "expected_ledger": "TXN-F2EC1CBE",
+        "expected_bank": "TXN-F2EC1CBE",
+        "financial_exposure": 24942.86,
+        "has_duplicate": false
+    },
+    "TXN-45F4279C": {
+        "scenario": "LEDGER_ONLY_ORPHAN",
+        "expected_gateway": "TXN-45F4279C",
+        "expected_ledger": null,
+        "expected_bank": "TXN-45F4279C",
+        "financial_exposure": 1780.31,
+        "has_duplicate": false
+    },
+    "TXN-35B2B905": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-35B2B905",
+        "expected_ledger": "35B2B905",
+        "expected_bank": "GW/TXN-35B2B905",
+        "financial_exposure": 49978.83,
+        "has_duplicate": false
+    },
+    "TXN-E8F8E150": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-E8F8E150",
+        "expected_ledger": "TXN-E8F8E150",
+        "expected_bank": "TXN-E8F8E150",
+        "financial_exposure": 22390.36,
+        "has_duplicate": false
+    },
+    "TXN-6A6ECA79": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-6A6ECA79",
+        "expected_ledger": "TXN-6A6ECA79",
+        "expected_bank": "TXN-6A6ECA79",
+        "financial_exposure": 40805.12,
+        "has_duplicate": false
+    },
+    "TXN-EB8C4FA1": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-EB8C4FA1",
+        "expected_ledger": "TXN-EB8C4FA1",
+        "expected_bank": "TXN-EB8C4FA1",
+        "financial_exposure": 5677.69,
+        "has_duplicate": false
+    },
+    "TXN-F41E2745": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-F41E2745",
+        "expected_ledger": "F41E2745",
+        "expected_bank": "TXN-F41E2745 ",
+        "financial_exposure": 47287.08,
+        "has_duplicate": false
+    },
+    "TXN-04FBFE35": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-04FBFE35",
+        "expected_ledger": "TXN-04FBFE35",
+        "expected_bank": "TXN-04FBFE35",
+        "financial_exposure": 16502.05,
+        "has_duplicate": false
+    },
+    "TXN-50DA3E0F": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-50DA3E0F",
+        "expected_ledger": "TXN-50DA3E0F",
+        "expected_bank": "TXN-50DA3E0F",
+        "financial_exposure": 43533.69,
+        "has_duplicate": false
+    },
+    "TXN-C934BC80": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-C934BC80",
+        "expected_ledger": "TXN-C934BC80",
+        "expected_bank": "TXN-C934BC80",
+        "financial_exposure": 31320.38,
+        "has_duplicate": false
+    },
+    "TXN-312FCF9B": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-312FCF9B",
+        "expected_ledger": "TXN-312FCF9B",
+        "expected_bank": "TXN-312FCF9B",
+        "financial_exposure": 6985.15,
+        "has_duplicate": false
+    },
+    "TXN-6D081255": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-6D081255",
+        "expected_ledger": "GW/TXN-6D081255",
+        "expected_bank": "txn-6d081255",
+        "financial_exposure": 48670.77,
+        "has_duplicate": false
+    },
+    "TXN-9BE4078B": {
+        "scenario": "BANK_ONLY_ORPHAN",
+        "expected_gateway": "TXN-9BE4078B",
+        "expected_ledger": "TXN-9BE4078B",
+        "expected_bank": null,
+        "financial_exposure": 20695.54,
+        "has_duplicate": false
+    },
+    "TXN-3A8E54AE": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-3A8E54AE",
+        "expected_ledger": "TXN-3A8E54AE",
+        "expected_bank": "TXN-3A8E54AE",
+        "financial_exposure": 32561.63,
+        "has_duplicate": false
+    },
+    "TXN-6210CB14": {
+        "scenario": "BANK_ONLY_ORPHAN",
+        "expected_gateway": "TXN-6210CB14",
+        "expected_ledger": "TXN-6210CB14",
+        "expected_bank": null,
+        "financial_exposure": 21066.77,
+        "has_duplicate": false
+    },
+    "TXN-AEF8BBDE": {
+        "scenario": "GATEWAY_ONLY_ORPHAN",
+        "expected_gateway": "TXN-AEF8BBDE",
+        "expected_ledger": null,
+        "expected_bank": null,
+        "financial_exposure": 7659.78,
+        "has_duplicate": false
+    },
+    "TXN-D9CE086C": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-D9CE086C",
+        "expected_ledger": "TXN-D9CE086C",
+        "expected_bank": "TXN-D9CE086C",
+        "financial_exposure": 7257.16,
+        "has_duplicate": false
+    },
+    "TXN-A5908B01": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-A5908B01",
+        "expected_ledger": "txn-a5908b01",
+        "expected_bank": "txn-a5908b01",
+        "financial_exposure": 39492.01,
+        "has_duplicate": false
+    },
+    "TXN-B9F19C7A": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-B9F19C7A",
+        "expected_ledger": "TXN-B9F19C7A",
+        "expected_bank": "TXN-B9F19C7A",
+        "financial_exposure": 24737.2,
+        "has_duplicate": false
+    },
+    "TXN-D089F3C3": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-D089F3C3",
+        "expected_ledger": "TXN-D089F3C3",
+        "expected_bank": "TXN-D089F3C3",
+        "financial_exposure": 27819.91,
+        "has_duplicate": false
+    },
+    "TXN-4437D577": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-4437D577",
+        "expected_ledger": "TXN-4437D577",
+        "expected_bank": "TXN-4437D577",
+        "financial_exposure": 12320.87,
+        "has_duplicate": false
+    },
+    "TXN-27EB399C": {
+        "scenario": "GATEWAY_ONLY_ORPHAN",
+        "expected_gateway": "TXN-27EB399C",
+        "expected_ledger": null,
+        "expected_bank": null,
+        "financial_exposure": 37362.91,
+        "has_duplicate": false
+    },
+    "TXN-BC11A619": {
+        "scenario": "BANK_ONLY_ORPHAN",
+        "expected_gateway": "TXN-BC11A619",
+        "expected_ledger": "TXN-BC11A619",
+        "expected_bank": null,
+        "financial_exposure": 39723.49,
+        "has_duplicate": false
+    },
+    "TXN-E7650BBC": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-E7650BBC",
+        "expected_ledger": "TXN-E7650BBC",
+        "expected_bank": "TXN-E7650BBC",
+        "financial_exposure": 25363.41,
+        "has_duplicate": false
+    },
+    "TXN-D764B45B": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-D764B45B",
+        "expected_ledger": "TXN-D764B45B",
+        "expected_bank": "TXN-D764B45B",
+        "financial_exposure": 26534.58,
+        "has_duplicate": false
+    },
+    "TXN-0C2AB5E5": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-0C2AB5E5",
+        "expected_ledger": "TXN-0C2AB5E5",
+        "expected_bank": "TXN-0C2AB5E5",
+        "financial_exposure": 32911.68,
+        "has_duplicate": false
+    },
+    "TXN-D002F382": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-D002F382",
+        "expected_ledger": "TXN-D002F382",
+        "expected_bank": "TXN-D002F382",
+        "financial_exposure": 34788.88,
+        "has_duplicate": false
+    },
+    "TXN-70045F2B": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-70045F2B",
+        "expected_ledger": "TXN-70045F2B",
+        "expected_bank": "TXN-70045F2B",
+        "financial_exposure": 26914.3,
+        "has_duplicate": false
+    },
+    "TXN-F7FCDF57": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-F7FCDF57",
+        "expected_ledger": "TXN-F7FCDF57",
+        "expected_bank": "TXN-F7FCDF57",
+        "financial_exposure": 3886.83,
+        "has_duplicate": false
+    },
+    "TXN-9E8C6786": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-9E8C6786",
+        "expected_ledger": "9E8C6786",
+        "expected_bank": "TXN-9E8C6786 ",
+        "financial_exposure": 21981.59,
+        "has_duplicate": false
+    },
+    "TXN-B8F5A427": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-B8F5A427",
+        "expected_ledger": "TXN-B8F5A427",
+        "expected_bank": "TXN-B8F5A427",
+        "financial_exposure": 45219.49,
+        "has_duplicate": false
+    },
+    "TXN-6FC707B0": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-6FC707B0",
+        "expected_ledger": "TXN-6FC707B0",
+        "expected_bank": "TXN-6FC707B0",
+        "financial_exposure": 19054.63,
+        "has_duplicate": false
+    },
+    "TXN-BAAFC721": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-BAAFC721",
+        "expected_ledger": "TXN-BAAFC721",
+        "expected_bank": "TXN-BAAFC721",
+        "financial_exposure": 39729.71,
+        "has_duplicate": false
+    },
+    "TXN-7B26CB5C": {
+        "scenario": "GATEWAY_ONLY_ORPHAN",
+        "expected_gateway": "TXN-7B26CB5C",
+        "expected_ledger": null,
+        "expected_bank": null,
+        "financial_exposure": 34315.16,
+        "has_duplicate": false
+    },
+    "TXN-554F161C": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-554F161C",
+        "expected_ledger": "TXN-554F161C",
+        "expected_bank": "TXN-554F161C",
+        "financial_exposure": 32076.28,
+        "has_duplicate": false
+    },
+    "TXN-E281158E": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-E281158E",
+        "expected_ledger": "TXN-E281158E",
+        "expected_bank": "TXN-E281158E",
+        "financial_exposure": 14737.77,
+        "has_duplicate": false
+    },
+    "TXN-77A78331": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-77A78331",
+        "expected_ledger": "TXN-77A78331",
+        "expected_bank": "TXN-77A78331",
+        "financial_exposure": 15308.14,
+        "has_duplicate": false
+    },
+    "TXN-F53ABA1D": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-F53ABA1D",
+        "expected_ledger": "TXN-F53ABA1D",
+        "expected_bank": "TXN-F53ABA1D",
+        "financial_exposure": 42740.11,
+        "has_duplicate": false
+    },
+    "TXN-71C0A019": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-71C0A019",
+        "expected_ledger": "TXN-71C0A019",
+        "expected_bank": "TXN-71C0A019",
+        "financial_exposure": 15145.68,
+        "has_duplicate": false
+    },
+    "TXN-9A67E24B": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-9A67E24B",
+        "expected_ledger": "9A67E24B",
+        "expected_bank": "TXN-9A67E24B ",
+        "financial_exposure": 28513.49,
+        "has_duplicate": false
+    },
+    "TXN-AD028057": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-AD028057",
+        "expected_ledger": "TXN-AD028057",
+        "expected_bank": "TXN-AD028057",
+        "financial_exposure": 40195.63,
+        "has_duplicate": false
+    },
+    "TXN-BDB43B01": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-BDB43B01",
+        "expected_ledger": "TXN-BDB43B01",
+        "expected_bank": "TXN-BDB43B01",
+        "financial_exposure": 36185.95,
+        "has_duplicate": false
+    },
+    "TXN-5A9099D5": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-5A9099D5",
+        "expected_ledger": "TXN-5A9099D5",
+        "expected_bank": "TXN-5A9099D5",
+        "financial_exposure": 2451.42,
+        "has_duplicate": false
+    },
+    "TXN-1052FF8F": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-1052FF8F",
+        "expected_ledger": "TXN-1052FF8F",
+        "expected_bank": "TXN-1052FF8F",
+        "financial_exposure": 7004.88,
+        "has_duplicate": false
+    },
+    "TXN-F1AA0DB2": {
+        "scenario": "DUPLICATE",
+        "expected_gateway": "TXN-F1AA0DB2",
+        "expected_ledger": "TXN-F1AA0DB2",
+        "expected_bank": "TXN-F1AA0DB2",
+        "financial_exposure": 7041.91,
+        "has_duplicate": true
+    },
+    "TXN-7F62153D": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-7F62153D",
+        "expected_ledger": "TXN-7F62153D",
+        "expected_bank": "TXN-7F62153D",
+        "financial_exposure": 45717.61,
+        "has_duplicate": false
+    },
+    "TXN-86F3C089": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-86F3C089",
+        "expected_ledger": "TXN-86F3C089",
+        "expected_bank": "TXN-86F3C089",
+        "financial_exposure": 43584.65,
+        "has_duplicate": false
+    },
+    "TXN-786EFDF8": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-786EFDF8",
+        "expected_ledger": "TXN-786EFDF8",
+        "expected_bank": "TXN-786EFDF8",
+        "financial_exposure": 48341.76,
+        "has_duplicate": false
+    },
+    "TXN-C0807FC5": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-C0807FC5",
+        "expected_ledger": "TXN-C0807FC5",
+        "expected_bank": "TXN-C0807FC5",
+        "financial_exposure": 4969.99,
+        "has_duplicate": false
+    },
+    "TXN-2BDD02F9": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-2BDD02F9",
+        "expected_ledger": "TXN-2BDD02F9",
+        "expected_bank": "TXN-2BDD02F9",
+        "financial_exposure": 18744.99,
+        "has_duplicate": false
+    },
+    "TXN-702BC9C8": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-702BC9C8",
+        "expected_ledger": "TXN-702BC9C8",
+        "expected_bank": "TXN-702BC9C8",
+        "financial_exposure": 5863.13,
+        "has_duplicate": false
+    },
+    "TXN-25D85A5B": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-25D85A5B",
+        "expected_ledger": "TXN-25D85A5B",
+        "expected_bank": "TXN-25D85A5B",
+        "financial_exposure": 3629.24,
+        "has_duplicate": false
+    },
+    "TXN-F35C81DF": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-F35C81DF",
+        "expected_ledger": "TXN-F35C81DF",
+        "expected_bank": "TXN-F35C81DF",
+        "financial_exposure": 2744.67,
+        "has_duplicate": false
+    },
+    "TXN-C084AA7E": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-C084AA7E",
+        "expected_ledger": "TXN-C084AA7E",
+        "expected_bank": "TXN-C084AA7E",
+        "financial_exposure": 12122.6,
+        "has_duplicate": false
+    },
+    "TXN-53D634CD": {
+        "scenario": "LEDGER_ONLY_ORPHAN",
+        "expected_gateway": "TXN-53D634CD",
+        "expected_ledger": null,
+        "expected_bank": "TXN-53D634CD",
+        "financial_exposure": 47494.35,
+        "has_duplicate": false
+    },
+    "TXN-F4CB1FD5": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-F4CB1FD5",
+        "expected_ledger": "TXN-F4CB1FD5",
+        "expected_bank": "TXN-F4CB1FD5",
+        "financial_exposure": 36466.66,
+        "has_duplicate": false
+    },
+    "TXN-5D230389": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-5D230389",
+        "expected_ledger": "TXN-5D230389",
+        "expected_bank": "TXN-5D230389",
+        "financial_exposure": 2119.46,
+        "has_duplicate": false
+    },
+    "TXN-C4F998FE": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-C4F998FE",
+        "expected_ledger": "TXN-C4F998FE",
+        "expected_bank": "TXN-C4F998FE",
+        "financial_exposure": 18452.96,
+        "has_duplicate": false
+    },
+    "TXN-DCB8CA9B": {
+        "scenario": "LEDGER_ONLY_ORPHAN",
+        "expected_gateway": "TXN-DCB8CA9B",
+        "expected_ledger": null,
+        "expected_bank": "TXN-DCB8CA9B",
+        "financial_exposure": 14156.13,
+        "has_duplicate": false
+    },
+    "TXN-650CD30D": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-650CD30D",
+        "expected_ledger": "TXN-650CD30D",
+        "expected_bank": "TXN-650CD30D",
+        "financial_exposure": 10999.24,
+        "has_duplicate": false
+    },
+    "TXN-326CA759": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-326CA759",
+        "expected_ledger": "TXN-326CA759",
+        "expected_bank": "TXN-326CA759",
+        "financial_exposure": 49446.63,
+        "has_duplicate": false
+    },
+    "TXN-2D34BC6F": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-2D34BC6F",
+        "expected_ledger": "TXN-2D34BC6F",
+        "expected_bank": "TXN-2D34BC6F",
+        "financial_exposure": 11189.59,
+        "has_duplicate": false
+    },
+    "TXN-EF22189F": {
+        "scenario": "BANK_ONLY_ORPHAN",
+        "expected_gateway": "TXN-EF22189F",
+        "expected_ledger": "TXN-EF22189F",
+        "expected_bank": null,
+        "financial_exposure": 14225.1,
+        "has_duplicate": false
+    },
+    "TXN-29EDE7F8": {
+        "scenario": "DUPLICATE",
+        "expected_gateway": "TXN-29EDE7F8",
+        "expected_ledger": "TXN-29EDE7F8",
+        "expected_bank": "TXN-29EDE7F8",
+        "financial_exposure": 9137.61,
+        "has_duplicate": true
+    },
+    "TXN-16FA846A": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-16FA846A",
+        "expected_ledger": "TXN-16FA846A",
+        "expected_bank": "TXN-16FA846A",
+        "financial_exposure": 39604.24,
+        "has_duplicate": false
+    },
+    "TXN-FE8ED99D": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-FE8ED99D",
+        "expected_ledger": "TXN-FE8ED99D",
+        "expected_bank": "TXN-FE8ED99D",
+        "financial_exposure": 6774.55,
+        "has_duplicate": false
+    },
+    "TXN-65CED63F": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-65CED63F",
+        "expected_ledger": "TXN-65CED63F",
+        "expected_bank": "TXN-65CED63F",
+        "financial_exposure": 18420.93,
+        "has_duplicate": false
+    },
+    "TXN-688A2B8E": {
+        "scenario": "GATEWAY_ONLY_ORPHAN",
+        "expected_gateway": "TXN-688A2B8E",
+        "expected_ledger": null,
+        "expected_bank": null,
+        "financial_exposure": 2646.57,
+        "has_duplicate": false
+    },
+    "TXN-46FA78F6": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-46FA78F6",
+        "expected_ledger": "TXN-46FA78F6",
+        "expected_bank": "TXN-46FA78F6",
+        "financial_exposure": 32345.36,
+        "has_duplicate": false
+    },
+    "TXN-1E6C2B61": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-1E6C2B61",
+        "expected_ledger": "TXN-1E6C2B61",
+        "expected_bank": "TXN-1E6C2B61",
+        "financial_exposure": 34461.83,
+        "has_duplicate": false
+    },
+    "TXN-3827C9E0": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-3827C9E0",
+        "expected_ledger": "TXN-3827C9E0",
+        "expected_bank": "TXN-3827C9E0",
+        "financial_exposure": 30610.72,
+        "has_duplicate": false
+    },
+    "TXN-D07A9DC4": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-D07A9DC4",
+        "expected_ledger": "TXN-D07A9DC4",
+        "expected_bank": "TXN-D07A9DC4",
+        "financial_exposure": 27643.64,
+        "has_duplicate": false
+    },
+    "TXN-62ED2867": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-62ED2867",
+        "expected_ledger": "TXN-62ED2867",
+        "expected_bank": "TXN-62ED2867",
+        "financial_exposure": 22958.91,
+        "has_duplicate": false
+    },
+    "TXN-976946E1": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-976946E1",
+        "expected_ledger": "TXN-976946E1",
+        "expected_bank": "TXN-976946E1",
+        "financial_exposure": 43946.46,
+        "has_duplicate": false
+    },
+    "TXN-AB94D74C": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-AB94D74C",
+        "expected_ledger": "TXN-AB94D74C ",
+        "expected_bank": "TXN-AB94D74C ",
+        "financial_exposure": 11810.43,
+        "has_duplicate": false
+    },
+    "TXN-63EF7670": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-63EF7670",
+        "expected_ledger": "TXN-63EF7670",
+        "expected_bank": "TXN-63EF7670",
+        "financial_exposure": 15969.92,
+        "has_duplicate": false
+    },
+    "TXN-7AE14C74": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-7AE14C74",
+        "expected_ledger": "7AE14C74",
+        "expected_bank": "TXN-7AE14C74 ",
+        "financial_exposure": 23976.26,
+        "has_duplicate": false
+    },
+    "TXN-CFF12D18": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-CFF12D18",
+        "expected_ledger": "TXN-CFF12D18",
+        "expected_bank": "TXN-CFF12D18",
+        "financial_exposure": 18946.02,
+        "has_duplicate": false
+    },
+    "TXN-BB67AE0C": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-BB67AE0C",
+        "expected_ledger": "TXN-BB67AE0C",
+        "expected_bank": "TXN-BB67AE0C",
+        "financial_exposure": 43743.56,
+        "has_duplicate": false
+    },
+    "TXN-6B78A133": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-6B78A133",
+        "expected_ledger": "TXN-6B78A133",
+        "expected_bank": "TXN-6B78A133",
+        "financial_exposure": 15966.22,
+        "has_duplicate": false
+    },
+    "TXN-C7625C78": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-C7625C78",
+        "expected_ledger": "TXN-C7625C78",
+        "expected_bank": "TXN-C7625C78",
+        "financial_exposure": 11600.12,
+        "has_duplicate": false
+    },
+    "TXN-30B9B2DB": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-30B9B2DB",
+        "expected_ledger": "TXN-30B9B2DB",
+        "expected_bank": "TXN-30B9B2DB",
+        "financial_exposure": 38248.98,
+        "has_duplicate": false
+    },
+    "TXN-3D30F3E3": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-3D30F3E3",
+        "expected_ledger": "TXN-3D30F3E3",
+        "expected_bank": "TXN-3D30F3E3",
+        "financial_exposure": 41012.13,
+        "has_duplicate": false
+    },
+    "TXN-62569F35": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-62569F35",
+        "expected_ledger": "TXN-62569F35",
+        "expected_bank": "TXN-62569F35",
+        "financial_exposure": 33062.65,
+        "has_duplicate": false
+    },
+    "TXN-0A9C81B5": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-0A9C81B5",
+        "expected_ledger": "TXN-0A9C81B5",
+        "expected_bank": "TXN-0A9C81B5",
+        "financial_exposure": 38239.27,
+        "has_duplicate": false
+    },
+    "TXN-5A03D70F": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-5A03D70F",
+        "expected_ledger": "TXN-5A03D70F",
+        "expected_bank": "TXN-5A03D70F",
+        "financial_exposure": 33038.56,
+        "has_duplicate": false
+    },
+    "TXN-A300FD3E": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-A300FD3E",
+        "expected_ledger": "TXN-A300FD3E",
+        "expected_bank": "TXN-A300FD3E",
+        "financial_exposure": 26758.89,
+        "has_duplicate": false
+    },
+    "TXN-9F3B360E": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-9F3B360E",
+        "expected_ledger": "9F3B360E",
+        "expected_bank": "9F3B360E",
+        "financial_exposure": 15926.05,
+        "has_duplicate": false
+    },
+    "TXN-5718857E": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-5718857E",
+        "expected_ledger": "TXN-5718857E",
+        "expected_bank": "TXN-5718857E",
+        "financial_exposure": 31082.99,
+        "has_duplicate": false
+    },
+    "TXN-FC2B8839": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-FC2B8839",
+        "expected_ledger": "TXN-FC2B8839",
+        "expected_bank": "TXN-FC2B8839",
+        "financial_exposure": 24540.25,
+        "has_duplicate": false
+    },
+    "TXN-ACE10B8D": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-ACE10B8D",
+        "expected_ledger": "TXN-ACE10B8D",
+        "expected_bank": "TXN-ACE10B8D",
+        "financial_exposure": 17586.06,
+        "has_duplicate": false
+    },
+    "TXN-17FC95DF": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-17FC95DF",
+        "expected_ledger": "TXN-17FC95DF",
+        "expected_bank": "TXN-17FC95DF",
+        "financial_exposure": 33523.06,
+        "has_duplicate": false
+    },
+    "TXN-E2958ADE": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-E2958ADE",
+        "expected_ledger": "txn-e2958ade",
+        "expected_bank": "txn-e2958ade",
+        "financial_exposure": 10618.94,
+        "has_duplicate": false
+    },
+    "TXN-A8B6A5B4": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-A8B6A5B4",
+        "expected_ledger": "TXN-A8B6A5B4",
+        "expected_bank": "TXN-A8B6A5B4",
+        "financial_exposure": 25120.57,
+        "has_duplicate": false
+    },
+    "TXN-146CE63E": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-146CE63E",
+        "expected_ledger": "txn-146ce63e",
+        "expected_bank": "146CE63E",
+        "financial_exposure": 11890.48,
+        "has_duplicate": false
+    },
+    "TXN-841CDC26": {
+        "scenario": "GATEWAY_ONLY_ORPHAN",
+        "expected_gateway": "TXN-841CDC26",
+        "expected_ledger": null,
+        "expected_bank": null,
+        "financial_exposure": 22092.87,
+        "has_duplicate": false
+    },
+    "TXN-723D462F": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-723D462F",
+        "expected_ledger": "TXN-723D462F",
+        "expected_bank": "TXN-723D462F",
+        "financial_exposure": 28883.28,
+        "has_duplicate": false
+    },
+    "TXN-B702F5AC": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-B702F5AC",
+        "expected_ledger": "TXN-B702F5AC ",
+        "expected_bank": "txn-b702f5ac",
+        "financial_exposure": 48326.88,
+        "has_duplicate": false
+    },
+    "TXN-D25E2233": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-D25E2233",
+        "expected_ledger": "TXN-D25E2233",
+        "expected_bank": "TXN-D25E2233",
+        "financial_exposure": 5740.23,
+        "has_duplicate": false
+    },
+    "TXN-8B11E98C": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-8B11E98C",
+        "expected_ledger": "8B11E98C",
+        "expected_bank": "8B11E98C",
+        "financial_exposure": 17305.91,
+        "has_duplicate": false
+    },
+    "TXN-12897B14": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-12897B14",
+        "expected_ledger": "TXN-12897B14",
+        "expected_bank": "TXN-12897B14",
+        "financial_exposure": 45343.18,
+        "has_duplicate": false
+    },
+    "TXN-6BDAE1EC": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-6BDAE1EC",
+        "expected_ledger": "TXN-6BDAE1EC",
+        "expected_bank": "TXN-6BDAE1EC",
+        "financial_exposure": 7748.99,
+        "has_duplicate": false
+    },
+    "TXN-EADA177A": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-EADA177A",
+        "expected_ledger": "TXN-EADA177A",
+        "expected_bank": "TXN-EADA177A",
+        "financial_exposure": 9268.73,
+        "has_duplicate": false
+    },
+    "TXN-BD0A9FD6": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-BD0A9FD6",
+        "expected_ledger": "TXN-BD0A9FD6",
+        "expected_bank": "TXN-BD0A9FD6",
+        "financial_exposure": 34216.11,
+        "has_duplicate": false
+    },
+    "TXN-30A9E2F3": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-30A9E2F3",
+        "expected_ledger": "TXN-30A9E2F3",
+        "expected_bank": "TXN-30A9E2F3",
+        "financial_exposure": 7972.39,
+        "has_duplicate": false
+    },
+    "TXN-3BF89DBB": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-3BF89DBB",
+        "expected_ledger": "TXN-3BF89DBB",
+        "expected_bank": "TXN-3BF89DBB",
+        "financial_exposure": 17921.14,
+        "has_duplicate": false
+    },
+    "TXN-E470410B": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-E470410B",
+        "expected_ledger": "TXN-E470410B",
+        "expected_bank": "TXN-E470410B",
+        "financial_exposure": 18752.51,
+        "has_duplicate": false
+    },
+    "TXN-D7C46794": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-D7C46794",
+        "expected_ledger": "TXN-D7C46794",
+        "expected_bank": "TXN-D7C46794",
+        "financial_exposure": 25599.86,
+        "has_duplicate": false
+    },
+    "TXN-9E5D20F8": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-9E5D20F8",
+        "expected_ledger": "TXN-9E5D20F8",
+        "expected_bank": "TXN-9E5D20F8",
+        "financial_exposure": 9817.85,
+        "has_duplicate": false
+    },
+    "TXN-ECDC470D": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-ECDC470D",
+        "expected_ledger": "TXN-ECDC470D",
+        "expected_bank": "TXN-ECDC470D",
+        "financial_exposure": 40642.86,
+        "has_duplicate": false
+    },
+    "TXN-9579DBEB": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-9579DBEB",
+        "expected_ledger": "TXN-9579DBEB",
+        "expected_bank": "TXN-9579DBEB",
+        "financial_exposure": 9041.67,
+        "has_duplicate": false
+    },
+    "TXN-FC321DE9": {
+        "scenario": "GATEWAY_ONLY_ORPHAN",
+        "expected_gateway": "TXN-FC321DE9",
+        "expected_ledger": null,
+        "expected_bank": null,
+        "financial_exposure": 8357.94,
+        "has_duplicate": false
+    },
+    "TXN-C4FE0BDC": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-C4FE0BDC",
+        "expected_ledger": "TXN-C4FE0BDC",
+        "expected_bank": "TXN-C4FE0BDC",
+        "financial_exposure": 17249.17,
+        "has_duplicate": false
+    },
+    "TXN-F52C92A6": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-F52C92A6",
+        "expected_ledger": "TXN-F52C92A6",
+        "expected_bank": "TXN-F52C92A6",
+        "financial_exposure": 5178.04,
+        "has_duplicate": false
+    },
+    "TXN-D8D7A851": {
+        "scenario": "DUPLICATE",
+        "expected_gateway": "TXN-D8D7A851",
+        "expected_ledger": "TXN-D8D7A851",
+        "expected_bank": "TXN-D8D7A851",
+        "financial_exposure": 32999.92,
+        "has_duplicate": true
+    },
+    "TXN-170AE7D5": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-170AE7D5",
+        "expected_ledger": "TXN-170AE7D5",
+        "expected_bank": "TXN-170AE7D5",
+        "financial_exposure": 33348.8,
+        "has_duplicate": false
+    },
+    "TXN-E2F74F5C": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-E2F74F5C",
+        "expected_ledger": "TXN-E2F74F5C",
+        "expected_bank": "TXN-E2F74F5C",
+        "financial_exposure": 35587.28,
+        "has_duplicate": false
+    },
+    "TXN-D22ED27A": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-D22ED27A",
+        "expected_ledger": "TXN-D22ED27A",
+        "expected_bank": "TXN-D22ED27A",
+        "financial_exposure": 16759.59,
+        "has_duplicate": false
+    },
+    "TXN-5753EEA5": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-5753EEA5",
+        "expected_ledger": "TXN-5753EEA5",
+        "expected_bank": "TXN-5753EEA5",
+        "financial_exposure": 33687.57,
+        "has_duplicate": false
+    },
+    "TXN-FFD5D994": {
+        "scenario": "LEDGER_ONLY_ORPHAN",
+        "expected_gateway": "TXN-FFD5D994",
+        "expected_ledger": null,
+        "expected_bank": "TXN-FFD5D994",
+        "financial_exposure": 47582.88,
+        "has_duplicate": false
+    },
+    "TXN-1D15FAA3": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-1D15FAA3",
+        "expected_ledger": "TXN-1D15FAA3",
+        "expected_bank": "TXN-1D15FAA3",
+        "financial_exposure": 49998.84,
+        "has_duplicate": false
+    },
+    "TXN-6A161669": {
+        "scenario": "DUPLICATE",
+        "expected_gateway": "TXN-6A161669",
+        "expected_ledger": "TXN-6A161669",
+        "expected_bank": "TXN-6A161669",
+        "financial_exposure": 27218.65,
+        "has_duplicate": true
+    },
+    "TXN-99F4611E": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-99F4611E",
+        "expected_ledger": "TXN-99F4611E",
+        "expected_bank": "TXN-99F4611E",
+        "financial_exposure": 43881.44,
+        "has_duplicate": false
+    },
+    "TXN-7341F68B": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-7341F68B",
+        "expected_ledger": "GW/TXN-7341F68B",
+        "expected_bank": "TXN-7341F68B ",
+        "financial_exposure": 9451.88,
+        "has_duplicate": false
+    },
+    "TXN-52CF2830": {
+        "scenario": "LEDGER_ONLY_ORPHAN",
+        "expected_gateway": "TXN-52CF2830",
+        "expected_ledger": null,
+        "expected_bank": "TXN-52CF2830",
+        "financial_exposure": 33979.96,
+        "has_duplicate": false
+    },
+    "TXN-07C4D11C": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-07C4D11C",
+        "expected_ledger": "TXN-07C4D11C",
+        "expected_bank": "TXN-07C4D11C",
+        "financial_exposure": 37552.56,
+        "has_duplicate": false
+    },
+    "TXN-AD602784": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-AD602784",
+        "expected_ledger": "TXN-AD602784",
+        "expected_bank": "TXN-AD602784",
+        "financial_exposure": 39326.33,
+        "has_duplicate": false
+    },
+    "TXN-A4984F0B": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-A4984F0B",
+        "expected_ledger": "TXN-A4984F0B",
+        "expected_bank": "TXN-A4984F0B",
+        "financial_exposure": 38587.21,
+        "has_duplicate": false
+    },
+    "TXN-726077F2": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-726077F2",
+        "expected_ledger": "TXN-726077F2",
+        "expected_bank": "TXN-726077F2",
+        "financial_exposure": 40936.12,
+        "has_duplicate": false
+    },
+    "TXN-C8F19EB5": {
+        "scenario": "GATEWAY_ONLY_ORPHAN",
+        "expected_gateway": "TXN-C8F19EB5",
+        "expected_ledger": null,
+        "expected_bank": null,
+        "financial_exposure": 43768.79,
+        "has_duplicate": false
+    },
+    "TXN-DC643C85": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-DC643C85",
+        "expected_ledger": "TXN-DC643C85",
+        "expected_bank": "TXN-DC643C85",
+        "financial_exposure": 4651.82,
+        "has_duplicate": false
+    },
+    "TXN-2FD6E141": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-2FD6E141",
+        "expected_ledger": "txn-2fd6e141",
+        "expected_bank": "2FD6E141",
+        "financial_exposure": 22154.89,
+        "has_duplicate": false
+    },
+    "TXN-B8FB01A8": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-B8FB01A8",
+        "expected_ledger": "TXN-B8FB01A8",
+        "expected_bank": "TXN-B8FB01A8",
+        "financial_exposure": 25349.35,
+        "has_duplicate": false
+    },
+    "TXN-BF2B00E3": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-BF2B00E3",
+        "expected_ledger": "txn-bf2b00e3",
+        "expected_bank": "GW/TXN-BF2B00E3",
+        "financial_exposure": 1895.28,
+        "has_duplicate": false
+    },
+    "TXN-0A4FCB6B": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-0A4FCB6B",
+        "expected_ledger": "TXN-0A4FCB6B",
+        "expected_bank": "TXN-0A4FCB6B",
+        "financial_exposure": 45911.11,
+        "has_duplicate": false
+    },
+    "TXN-76E8E428": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-76E8E428",
+        "expected_ledger": "TXN-76E8E428",
+        "expected_bank": "TXN-76E8E428",
+        "financial_exposure": 759.93,
+        "has_duplicate": false
+    },
+    "TXN-3A625618": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-3A625618",
+        "expected_ledger": "TXN-3A625618",
+        "expected_bank": "TXN-3A625618",
+        "financial_exposure": 47041.18,
+        "has_duplicate": false
+    },
+    "TXN-27910BCE": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-27910BCE",
+        "expected_ledger": "TXN-27910BCE",
+        "expected_bank": "TXN-27910BCE",
+        "financial_exposure": 6531.49,
+        "has_duplicate": false
+    },
+    "TXN-0F1B8331": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-0F1B8331",
+        "expected_ledger": "TXN-0F1B8331",
+        "expected_bank": "TXN-0F1B8331",
+        "financial_exposure": 5987.47,
+        "has_duplicate": false
+    },
+    "TXN-1B45F801": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-1B45F801",
+        "expected_ledger": "TXN-1B45F801",
+        "expected_bank": "TXN-1B45F801",
+        "financial_exposure": 36067.94,
+        "has_duplicate": false
+    },
+    "TXN-869D55E7": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-869D55E7",
+        "expected_ledger": "TXN-869D55E7",
+        "expected_bank": "TXN-869D55E7",
+        "financial_exposure": 28747.85,
+        "has_duplicate": false
+    },
+    "TXN-D30A8778": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-D30A8778",
+        "expected_ledger": "TXN-D30A8778",
+        "expected_bank": "TXN-D30A8778",
+        "financial_exposure": 47693.48,
+        "has_duplicate": false
+    },
+    "TXN-455CB43F": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-455CB43F",
+        "expected_ledger": "TXN-455CB43F",
+        "expected_bank": "TXN-455CB43F",
+        "financial_exposure": 31965.7,
+        "has_duplicate": false
+    },
+    "TXN-93DE94FA": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-93DE94FA",
+        "expected_ledger": "TXN-93DE94FA",
+        "expected_bank": "TXN-93DE94FA",
+        "financial_exposure": 3844.2,
+        "has_duplicate": false
+    },
+    "TXN-862B32E1": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-862B32E1",
+        "expected_ledger": "TXN-862B32E1",
+        "expected_bank": "TXN-862B32E1",
+        "financial_exposure": 37955.61,
+        "has_duplicate": false
+    },
+    "TXN-5EDE21E9": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-5EDE21E9",
+        "expected_ledger": "TXN-5EDE21E9 ",
+        "expected_bank": "TXN-5EDE21E9 ",
+        "financial_exposure": 32318.38,
+        "has_duplicate": false
+    },
+    "TXN-27F64F55": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-27F64F55",
+        "expected_ledger": "TXN-27F64F55",
+        "expected_bank": "TXN-27F64F55",
+        "financial_exposure": 35944.23,
+        "has_duplicate": false
+    },
+    "TXN-0AC597D1": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-0AC597D1",
+        "expected_ledger": "TXN-0AC597D1",
+        "expected_bank": "TXN-0AC597D1",
+        "financial_exposure": 10373.76,
+        "has_duplicate": false
+    },
+    "TXN-2E994477": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-2E994477",
+        "expected_ledger": "TXN-2E994477",
+        "expected_bank": "TXN-2E994477",
+        "financial_exposure": 49461.57,
+        "has_duplicate": false
+    },
+    "TXN-7FCC2454": {
+        "scenario": "DUPLICATE",
+        "expected_gateway": "TXN-7FCC2454",
+        "expected_ledger": "TXN-7FCC2454",
+        "expected_bank": "TXN-7FCC2454",
+        "financial_exposure": 43175.86,
+        "has_duplicate": true
+    },
+    "TXN-5B9E22D6": {
+        "scenario": "DUPLICATE",
+        "expected_gateway": "TXN-5B9E22D6",
+        "expected_ledger": "TXN-5B9E22D6",
+        "expected_bank": "TXN-5B9E22D6",
+        "financial_exposure": 40067.45,
+        "has_duplicate": true
+    },
+    "TXN-3D9F31A0": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-3D9F31A0",
+        "expected_ledger": "TXN-3D9F31A0",
+        "expected_bank": "TXN-3D9F31A0",
+        "financial_exposure": 48699.32,
+        "has_duplicate": false
+    },
+    "TXN-3EF1DF8D": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-3EF1DF8D",
+        "expected_ledger": "TXN-3EF1DF8D",
+        "expected_bank": "TXN-3EF1DF8D",
+        "financial_exposure": 4589.27,
+        "has_duplicate": false
+    },
+    "TXN-001DDA31": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-001DDA31",
+        "expected_ledger": "TXN-001DDA31",
+        "expected_bank": "TXN-001DDA31",
+        "financial_exposure": 15041.44,
+        "has_duplicate": false
+    },
+    "TXN-CCFB64A3": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-CCFB64A3",
+        "expected_ledger": "TXN-CCFB64A3",
+        "expected_bank": "TXN-CCFB64A3",
+        "financial_exposure": 30329.77,
+        "has_duplicate": false
+    },
+    "TXN-00F7CCDD": {
+        "scenario": "GATEWAY_ONLY_ORPHAN",
+        "expected_gateway": "TXN-00F7CCDD",
+        "expected_ledger": null,
+        "expected_bank": null,
+        "financial_exposure": 2596.58,
+        "has_duplicate": false
+    },
+    "TXN-06F8A61C": {
+        "scenario": "LEDGER_ONLY_ORPHAN",
+        "expected_gateway": "TXN-06F8A61C",
+        "expected_ledger": null,
+        "expected_bank": "TXN-06F8A61C",
+        "financial_exposure": 32153.73,
+        "has_duplicate": false
+    },
+    "TXN-02399F13": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-02399F13",
+        "expected_ledger": "GW/TXN-02399F13",
+        "expected_bank": "02399F13",
+        "financial_exposure": 20607.41,
+        "has_duplicate": false
+    },
+    "TXN-ADF6034A": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-ADF6034A",
+        "expected_ledger": "TXN-ADF6034A",
+        "expected_bank": "TXN-ADF6034A",
+        "financial_exposure": 39174.94,
+        "has_duplicate": false
+    },
+    "TXN-A7279BED": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-A7279BED",
+        "expected_ledger": "TXN-A7279BED",
+        "expected_bank": "TXN-A7279BED",
+        "financial_exposure": 18426.45,
+        "has_duplicate": false
+    },
+    "TXN-296341EC": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-296341EC",
+        "expected_ledger": "TXN-296341EC",
+        "expected_bank": "TXN-296341EC",
+        "financial_exposure": 47466.76,
+        "has_duplicate": false
+    },
+    "TXN-25A0C835": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-25A0C835",
+        "expected_ledger": "TXN-25A0C835",
+        "expected_bank": "TXN-25A0C835",
+        "financial_exposure": 26708.26,
+        "has_duplicate": false
+    },
+    "TXN-5FD8F0C1": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-5FD8F0C1",
+        "expected_ledger": "TXN-5FD8F0C1",
+        "expected_bank": "TXN-5FD8F0C1",
+        "financial_exposure": 1782.71,
+        "has_duplicate": false
+    },
+    "TXN-FA7DBF37": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-FA7DBF37",
+        "expected_ledger": "TXN-FA7DBF37",
+        "expected_bank": "TXN-FA7DBF37",
+        "financial_exposure": 38860.74,
+        "has_duplicate": false
+    },
+    "TXN-F6595425": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-F6595425",
+        "expected_ledger": "TXN-F6595425",
+        "expected_bank": "TXN-F6595425",
+        "financial_exposure": 45865.71,
+        "has_duplicate": false
+    },
+    "TXN-2AF33D56": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-2AF33D56",
+        "expected_ledger": "TXN-2AF33D56",
+        "expected_bank": "TXN-2AF33D56",
+        "financial_exposure": 9046.49,
+        "has_duplicate": false
+    },
+    "TXN-069C8C70": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-069C8C70",
+        "expected_ledger": "TXN-069C8C70",
+        "expected_bank": "TXN-069C8C70",
+        "financial_exposure": 49335.45,
+        "has_duplicate": false
+    },
+    "TXN-2C638393": {
+        "scenario": "DUPLICATE",
+        "expected_gateway": "TXN-2C638393",
+        "expected_ledger": "TXN-2C638393",
+        "expected_bank": "TXN-2C638393",
+        "financial_exposure": 14872.93,
+        "has_duplicate": true
+    },
+    "TXN-53F5F225": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-53F5F225",
+        "expected_ledger": "GW/TXN-53F5F225",
+        "expected_bank": "TXN-53F5F225 ",
+        "financial_exposure": 11599.96,
+        "has_duplicate": false
+    },
+    "TXN-4E80CAA2": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-4E80CAA2",
+        "expected_ledger": "GW/TXN-4E80CAA2",
+        "expected_bank": "4E80CAA2",
+        "financial_exposure": 28827.73,
+        "has_duplicate": false
+    },
+    "TXN-56541367": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-56541367",
+        "expected_ledger": "TXN-56541367",
+        "expected_bank": "TXN-56541367",
+        "financial_exposure": 49979.95,
+        "has_duplicate": false
+    },
+    "TXN-605161C7": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-605161C7",
+        "expected_ledger": "TXN-605161C7",
+        "expected_bank": "TXN-605161C7",
+        "financial_exposure": 6703.68,
+        "has_duplicate": false
+    },
+    "TXN-AA653F2D": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-AA653F2D",
+        "expected_ledger": "GW/TXN-AA653F2D",
+        "expected_bank": "GW/TXN-AA653F2D",
+        "financial_exposure": 17553.48,
+        "has_duplicate": false
+    },
+    "TXN-D1EBC30F": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-D1EBC30F",
+        "expected_ledger": "TXN-D1EBC30F",
+        "expected_bank": "TXN-D1EBC30F",
+        "financial_exposure": 43476.48,
+        "has_duplicate": false
+    },
+    "TXN-6D71D791": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-6D71D791",
+        "expected_ledger": "TXN-6D71D791",
+        "expected_bank": "TXN-6D71D791",
+        "financial_exposure": 8517.36,
+        "has_duplicate": false
+    },
+    "TXN-A2ED2614": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-A2ED2614",
+        "expected_ledger": "TXN-A2ED2614",
+        "expected_bank": "TXN-A2ED2614",
+        "financial_exposure": 4403.57,
+        "has_duplicate": false
+    },
+    "TXN-4AA81D5F": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-4AA81D5F",
+        "expected_ledger": "TXN-4AA81D5F",
+        "expected_bank": "TXN-4AA81D5F",
+        "financial_exposure": 15489.82,
+        "has_duplicate": false
+    },
+    "TXN-E2DC4346": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-E2DC4346",
+        "expected_ledger": "TXN-E2DC4346",
+        "expected_bank": "TXN-E2DC4346",
+        "financial_exposure": 8132.62,
+        "has_duplicate": false
+    },
+    "TXN-581E05E5": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-581E05E5",
+        "expected_ledger": "TXN-581E05E5",
+        "expected_bank": "TXN-581E05E5",
+        "financial_exposure": 41349.2,
+        "has_duplicate": false
+    },
+    "TXN-57CBDD2A": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-57CBDD2A",
+        "expected_ledger": "TXN-57CBDD2A",
+        "expected_bank": "TXN-57CBDD2A",
+        "financial_exposure": 10935.01,
+        "has_duplicate": false
+    },
+    "TXN-AFB71BE6": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-AFB71BE6",
+        "expected_ledger": "TXN-AFB71BE6",
+        "expected_bank": "TXN-AFB71BE6",
+        "financial_exposure": 31544.62,
+        "has_duplicate": false
+    },
+    "TXN-D377DA3E": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-D377DA3E",
+        "expected_ledger": "TXN-D377DA3E",
+        "expected_bank": "TXN-D377DA3E",
+        "financial_exposure": 40463.79,
+        "has_duplicate": false
+    },
+    "TXN-3AECFBCD": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-3AECFBCD",
+        "expected_ledger": "TXN-3AECFBCD",
+        "expected_bank": "TXN-3AECFBCD",
+        "financial_exposure": 8324.98,
+        "has_duplicate": false
+    },
+    "TXN-CA869A55": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-CA869A55",
+        "expected_ledger": "TXN-CA869A55",
+        "expected_bank": "TXN-CA869A55",
+        "financial_exposure": 15972.83,
+        "has_duplicate": false
+    },
+    "TXN-7D2E7711": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-7D2E7711",
+        "expected_ledger": "TXN-7D2E7711",
+        "expected_bank": "TXN-7D2E7711",
+        "financial_exposure": 38152.92,
+        "has_duplicate": false
+    },
+    "TXN-A1052C81": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-A1052C81",
+        "expected_ledger": "TXN-A1052C81",
+        "expected_bank": "TXN-A1052C81",
+        "financial_exposure": 13739.85,
+        "has_duplicate": false
+    },
+    "TXN-D4ADC204": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-D4ADC204",
+        "expected_ledger": "TXN-D4ADC204",
+        "expected_bank": "TXN-D4ADC204",
+        "financial_exposure": 43276.11,
+        "has_duplicate": false
+    },
+    "TXN-B5C39637": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-B5C39637",
+        "expected_ledger": "TXN-B5C39637",
+        "expected_bank": "TXN-B5C39637",
+        "financial_exposure": 29095.51,
+        "has_duplicate": false
+    },
+    "TXN-76EE9E28": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-76EE9E28",
+        "expected_ledger": "TXN-76EE9E28",
+        "expected_bank": "TXN-76EE9E28",
+        "financial_exposure": 23607.35,
+        "has_duplicate": false
+    },
+    "TXN-EF98468D": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-EF98468D",
+        "expected_ledger": "TXN-EF98468D",
+        "expected_bank": "TXN-EF98468D",
+        "financial_exposure": 48350.99,
+        "has_duplicate": false
+    },
+    "TXN-99612998": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-99612998",
+        "expected_ledger": "TXN-99612998",
+        "expected_bank": "TXN-99612998",
+        "financial_exposure": 30077.18,
+        "has_duplicate": false
+    },
+    "TXN-B8E64CAA": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-B8E64CAA",
+        "expected_ledger": "TXN-B8E64CAA",
+        "expected_bank": "TXN-B8E64CAA",
+        "financial_exposure": 42435.03,
+        "has_duplicate": false
+    },
+    "TXN-618D44CA": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-618D44CA",
+        "expected_ledger": "TXN-618D44CA",
+        "expected_bank": "TXN-618D44CA",
+        "financial_exposure": 38310.91,
+        "has_duplicate": false
+    },
+    "TXN-A22B5A0F": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-A22B5A0F",
+        "expected_ledger": "TXN-A22B5A0F",
+        "expected_bank": "TXN-A22B5A0F",
+        "financial_exposure": 10135.44,
+        "has_duplicate": false
+    },
+    "TXN-C38BADEF": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-C38BADEF",
+        "expected_ledger": "C38BADEF",
+        "expected_bank": "GW/TXN-C38BADEF",
+        "financial_exposure": 38338.0,
+        "has_duplicate": false
+    },
+    "TXN-AE337F6B": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-AE337F6B",
+        "expected_ledger": "TXN-AE337F6B",
+        "expected_bank": "TXN-AE337F6B",
+        "financial_exposure": 39847.41,
+        "has_duplicate": false
+    },
+    "TXN-27B24899": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-27B24899",
+        "expected_ledger": "TXN-27B24899",
+        "expected_bank": "TXN-27B24899",
+        "financial_exposure": 25701.56,
+        "has_duplicate": false
+    },
+    "TXN-5847101D": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-5847101D",
+        "expected_ledger": "TXN-5847101D",
+        "expected_bank": "TXN-5847101D",
+        "financial_exposure": 16985.51,
+        "has_duplicate": false
+    },
+    "TXN-71E961AF": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-71E961AF",
+        "expected_ledger": "TXN-71E961AF",
+        "expected_bank": "TXN-71E961AF",
+        "financial_exposure": 16734.31,
+        "has_duplicate": false
+    },
+    "TXN-9071974D": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-9071974D",
+        "expected_ledger": "TXN-9071974D",
+        "expected_bank": "TXN-9071974D",
+        "financial_exposure": 42208.8,
+        "has_duplicate": false
+    },
+    "TXN-672F4A5B": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-672F4A5B",
+        "expected_ledger": "TXN-672F4A5B",
+        "expected_bank": "TXN-672F4A5B",
+        "financial_exposure": 35582.62,
+        "has_duplicate": false
+    },
+    "TXN-86D68330": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-86D68330",
+        "expected_ledger": "TXN-86D68330",
+        "expected_bank": "TXN-86D68330",
+        "financial_exposure": 5925.43,
+        "has_duplicate": false
+    },
+    "TXN-310F7E86": {
+        "scenario": "BANK_ONLY_ORPHAN",
+        "expected_gateway": "TXN-310F7E86",
+        "expected_ledger": "TXN-310F7E86",
+        "expected_bank": null,
+        "financial_exposure": 48370.0,
+        "has_duplicate": false
+    },
+    "TXN-90FED483": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-90FED483",
+        "expected_ledger": "TXN-90FED483",
+        "expected_bank": "TXN-90FED483",
+        "financial_exposure": 36209.31,
+        "has_duplicate": false
+    },
+    "TXN-C65B34D8": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-C65B34D8",
+        "expected_ledger": "TXN-C65B34D8",
+        "expected_bank": "TXN-C65B34D8",
+        "financial_exposure": 2062.74,
+        "has_duplicate": false
+    },
+    "TXN-0C172E42": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-0C172E42",
+        "expected_ledger": "TXN-0C172E42",
+        "expected_bank": "TXN-0C172E42",
+        "financial_exposure": 21229.62,
+        "has_duplicate": false
+    },
+    "TXN-8B1F3CCB": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-8B1F3CCB",
+        "expected_ledger": "TXN-8B1F3CCB",
+        "expected_bank": "TXN-8B1F3CCB",
+        "financial_exposure": 23844.47,
+        "has_duplicate": false
+    },
+    "TXN-A04D6083": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-A04D6083",
+        "expected_ledger": "TXN-A04D6083",
+        "expected_bank": "TXN-A04D6083",
+        "financial_exposure": 28263.9,
+        "has_duplicate": false
+    },
+    "TXN-A2C1E3FD": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-A2C1E3FD",
+        "expected_ledger": "TXN-A2C1E3FD",
+        "expected_bank": "TXN-A2C1E3FD",
+        "financial_exposure": 45650.15,
+        "has_duplicate": false
+    },
+    "TXN-94BFE72E": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-94BFE72E",
+        "expected_ledger": "TXN-94BFE72E",
+        "expected_bank": "TXN-94BFE72E",
+        "financial_exposure": 47888.2,
+        "has_duplicate": false
+    },
+    "TXN-F14CDC63": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-F14CDC63",
+        "expected_ledger": "TXN-F14CDC63",
+        "expected_bank": "TXN-F14CDC63",
+        "financial_exposure": 10760.25,
+        "has_duplicate": false
+    },
+    "TXN-78EE2B33": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-78EE2B33",
+        "expected_ledger": "TXN-78EE2B33",
+        "expected_bank": "TXN-78EE2B33",
+        "financial_exposure": 46757.03,
+        "has_duplicate": false
+    },
+    "TXN-069C6FD5": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-069C6FD5",
+        "expected_ledger": "GW/TXN-069C6FD5",
+        "expected_bank": "txn-069c6fd5",
+        "financial_exposure": 27387.95,
+        "has_duplicate": false
+    },
+    "TXN-321C8416": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-321C8416",
+        "expected_ledger": "TXN-321C8416",
+        "expected_bank": "TXN-321C8416",
+        "financial_exposure": 4411.96,
+        "has_duplicate": false
+    },
+    "TXN-F6E1F160": {
+        "scenario": "GATEWAY_ONLY_ORPHAN",
+        "expected_gateway": "TXN-F6E1F160",
+        "expected_ledger": null,
+        "expected_bank": null,
+        "financial_exposure": 41483.61,
+        "has_duplicate": false
+    },
+    "TXN-B8E20799": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-B8E20799",
+        "expected_ledger": "TXN-B8E20799",
+        "expected_bank": "TXN-B8E20799",
+        "financial_exposure": 30976.01,
+        "has_duplicate": false
+    },
+    "TXN-790CF565": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-790CF565",
+        "expected_ledger": "TXN-790CF565",
+        "expected_bank": "TXN-790CF565",
+        "financial_exposure": 26786.55,
+        "has_duplicate": false
+    },
+    "TXN-F42DF682": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-F42DF682",
+        "expected_ledger": "TXN-F42DF682",
+        "expected_bank": "TXN-F42DF682",
+        "financial_exposure": 36009.22,
+        "has_duplicate": false
+    },
+    "TXN-08411AB0": {
+        "scenario": "GATEWAY_ONLY_ORPHAN",
+        "expected_gateway": "TXN-08411AB0",
+        "expected_ledger": null,
+        "expected_bank": null,
+        "financial_exposure": 8318.08,
+        "has_duplicate": false
+    },
+    "TXN-7222B951": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-7222B951",
+        "expected_ledger": "TXN-7222B951",
+        "expected_bank": "TXN-7222B951",
+        "financial_exposure": 10373.07,
+        "has_duplicate": false
+    },
+    "TXN-25B3210D": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-25B3210D",
+        "expected_ledger": "TXN-25B3210D",
+        "expected_bank": "TXN-25B3210D",
+        "financial_exposure": 28919.6,
+        "has_duplicate": false
+    },
+    "TXN-FED24A12": {
+        "scenario": "BANK_ONLY_ORPHAN",
+        "expected_gateway": "TXN-FED24A12",
+        "expected_ledger": "TXN-FED24A12",
+        "expected_bank": null,
+        "financial_exposure": 41961.44,
+        "has_duplicate": false
+    },
+    "TXN-67F8F114": {
+        "scenario": "GATEWAY_ONLY_ORPHAN",
+        "expected_gateway": "TXN-67F8F114",
+        "expected_ledger": null,
+        "expected_bank": null,
+        "financial_exposure": 46862.13,
+        "has_duplicate": false
+    },
+    "TXN-B034D74F": {
+        "scenario": "GATEWAY_ONLY_ORPHAN",
+        "expected_gateway": "TXN-B034D74F",
+        "expected_ledger": null,
+        "expected_bank": null,
+        "financial_exposure": 28614.11,
+        "has_duplicate": false
+    },
+    "TXN-A280338C": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-A280338C",
+        "expected_ledger": "TXN-A280338C",
+        "expected_bank": "TXN-A280338C",
+        "financial_exposure": 49460.42,
+        "has_duplicate": false
+    },
+    "TXN-C4AC1976": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-C4AC1976",
+        "expected_ledger": "TXN-C4AC1976",
+        "expected_bank": "TXN-C4AC1976",
+        "financial_exposure": 10044.16,
+        "has_duplicate": false
+    },
+    "TXN-EA5B4724": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-EA5B4724",
+        "expected_ledger": "TXN-EA5B4724",
+        "expected_bank": "TXN-EA5B4724",
+        "financial_exposure": 36070.61,
+        "has_duplicate": false
+    },
+    "TXN-F14C4F54": {
+        "scenario": "DUPLICATE",
+        "expected_gateway": "TXN-F14C4F54",
+        "expected_ledger": "TXN-F14C4F54",
+        "expected_bank": "TXN-F14C4F54",
+        "financial_exposure": 10061.48,
+        "has_duplicate": true
+    },
+    "TXN-A913F04B": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-A913F04B",
+        "expected_ledger": "TXN-A913F04B",
+        "expected_bank": "TXN-A913F04B",
+        "financial_exposure": 16732.37,
+        "has_duplicate": false
+    },
+    "TXN-3EE6C2D3": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-3EE6C2D3",
+        "expected_ledger": "TXN-3EE6C2D3",
+        "expected_bank": "TXN-3EE6C2D3",
+        "financial_exposure": 46823.36,
+        "has_duplicate": false
+    },
+    "TXN-E20B8AAF": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-E20B8AAF",
+        "expected_ledger": "TXN-E20B8AAF",
+        "expected_bank": "TXN-E20B8AAF",
+        "financial_exposure": 13716.22,
+        "has_duplicate": false
+    },
+    "TXN-BDAF0568": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-BDAF0568",
+        "expected_ledger": "TXN-BDAF0568",
+        "expected_bank": "TXN-BDAF0568",
+        "financial_exposure": 32857.33,
+        "has_duplicate": false
+    },
+    "TXN-0A20D946": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-0A20D946",
+        "expected_ledger": "TXN-0A20D946",
+        "expected_bank": "TXN-0A20D946",
+        "financial_exposure": 8405.98,
+        "has_duplicate": false
+    },
+    "TXN-CD6B578A": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-CD6B578A",
+        "expected_ledger": "TXN-CD6B578A",
+        "expected_bank": "TXN-CD6B578A",
+        "financial_exposure": 47061.46,
+        "has_duplicate": false
+    },
+    "TXN-4C0A4FB9": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-4C0A4FB9",
+        "expected_ledger": "TXN-4C0A4FB9",
+        "expected_bank": "TXN-4C0A4FB9",
+        "financial_exposure": 23021.44,
+        "has_duplicate": false
+    },
+    "TXN-44D293ED": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-44D293ED",
+        "expected_ledger": "GW/TXN-44D293ED",
+        "expected_bank": "44D293ED",
+        "financial_exposure": 27107.13,
+        "has_duplicate": false
+    },
+    "TXN-66286BE5": {
+        "scenario": "GATEWAY_ONLY_ORPHAN",
+        "expected_gateway": "TXN-66286BE5",
+        "expected_ledger": null,
+        "expected_bank": null,
+        "financial_exposure": 35336.42,
+        "has_duplicate": false
+    },
+    "TXN-38A8030A": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-38A8030A",
+        "expected_ledger": "TXN-38A8030A",
+        "expected_bank": "TXN-38A8030A",
+        "financial_exposure": 27608.64,
+        "has_duplicate": false
+    },
+    "TXN-213A84CB": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-213A84CB",
+        "expected_ledger": "TXN-213A84CB",
+        "expected_bank": "TXN-213A84CB",
+        "financial_exposure": 16741.82,
+        "has_duplicate": false
+    },
+    "TXN-9ED2500E": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-9ED2500E",
+        "expected_ledger": "TXN-9ED2500E",
+        "expected_bank": "TXN-9ED2500E",
+        "financial_exposure": 24696.98,
+        "has_duplicate": false
+    },
+    "TXN-4F9CF915": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-4F9CF915",
+        "expected_ledger": "TXN-4F9CF915",
+        "expected_bank": "TXN-4F9CF915",
+        "financial_exposure": 25905.77,
+        "has_duplicate": false
+    },
+    "TXN-6F1A7752": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-6F1A7752",
+        "expected_ledger": "TXN-6F1A7752",
+        "expected_bank": "TXN-6F1A7752",
+        "financial_exposure": 20099.46,
+        "has_duplicate": false
+    },
+    "TXN-AEE8F2B7": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-AEE8F2B7",
+        "expected_ledger": "TXN-AEE8F2B7",
+        "expected_bank": "TXN-AEE8F2B7",
+        "financial_exposure": 2741.85,
+        "has_duplicate": false
+    },
+    "TXN-CC037E01": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-CC037E01",
+        "expected_ledger": "TXN-CC037E01",
+        "expected_bank": "TXN-CC037E01",
+        "financial_exposure": 23867.52,
+        "has_duplicate": false
+    },
+    "TXN-85759BB0": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-85759BB0",
+        "expected_ledger": "TXN-85759BB0",
+        "expected_bank": "TXN-85759BB0",
+        "financial_exposure": 32471.1,
+        "has_duplicate": false
+    },
+    "TXN-9E9DA678": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-9E9DA678",
+        "expected_ledger": "TXN-9E9DA678",
+        "expected_bank": "TXN-9E9DA678",
+        "financial_exposure": 45897.2,
+        "has_duplicate": false
+    },
+    "TXN-408B3605": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-408B3605",
+        "expected_ledger": "TXN-408B3605",
+        "expected_bank": "TXN-408B3605",
+        "financial_exposure": 43084.19,
+        "has_duplicate": false
+    },
+    "TXN-70FFE0A8": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-70FFE0A8",
+        "expected_ledger": "70FFE0A8",
+        "expected_bank": "txn-70ffe0a8",
+        "financial_exposure": 6803.68,
+        "has_duplicate": false
+    },
+    "TXN-FAB3B76D": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-FAB3B76D",
+        "expected_ledger": "TXN-FAB3B76D",
+        "expected_bank": "TXN-FAB3B76D",
+        "financial_exposure": 27450.04,
+        "has_duplicate": false
+    },
+    "TXN-42B3959A": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-42B3959A",
+        "expected_ledger": "TXN-42B3959A",
+        "expected_bank": "TXN-42B3959A",
+        "financial_exposure": 17634.91,
+        "has_duplicate": false
+    },
+    "TXN-FCD3616E": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-FCD3616E",
+        "expected_ledger": "FCD3616E",
+        "expected_bank": "GW/TXN-FCD3616E",
+        "financial_exposure": 33179.79,
+        "has_duplicate": false
+    },
+    "TXN-2A49EF93": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-2A49EF93",
+        "expected_ledger": "TXN-2A49EF93",
+        "expected_bank": "TXN-2A49EF93",
+        "financial_exposure": 29900.24,
+        "has_duplicate": false
+    },
+    "TXN-F76CC625": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-F76CC625",
+        "expected_ledger": "TXN-F76CC625",
+        "expected_bank": "TXN-F76CC625",
+        "financial_exposure": 20412.13,
+        "has_duplicate": false
+    },
+    "TXN-46834E3B": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-46834E3B",
+        "expected_ledger": "TXN-46834E3B",
+        "expected_bank": "TXN-46834E3B",
+        "financial_exposure": 12091.0,
+        "has_duplicate": false
+    },
+    "TXN-BAD6F2F3": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-BAD6F2F3",
+        "expected_ledger": "TXN-BAD6F2F3",
+        "expected_bank": "TXN-BAD6F2F3",
+        "financial_exposure": 7591.39,
+        "has_duplicate": false
+    },
+    "TXN-3CEE8A51": {
+        "scenario": "DUPLICATE",
+        "expected_gateway": "TXN-3CEE8A51",
+        "expected_ledger": "TXN-3CEE8A51",
+        "expected_bank": "TXN-3CEE8A51",
+        "financial_exposure": 28057.55,
+        "has_duplicate": true
+    },
+    "TXN-6BDC8D9C": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-6BDC8D9C",
+        "expected_ledger": "TXN-6BDC8D9C",
+        "expected_bank": "TXN-6BDC8D9C",
+        "financial_exposure": 21646.43,
+        "has_duplicate": false
+    },
+    "TXN-AFCEF893": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-AFCEF893",
+        "expected_ledger": "TXN-AFCEF893",
+        "expected_bank": "TXN-AFCEF893",
+        "financial_exposure": 19367.15,
+        "has_duplicate": false
+    },
+    "TXN-8A7B76F6": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-8A7B76F6",
+        "expected_ledger": "TXN-8A7B76F6 ",
+        "expected_bank": "GW/TXN-8A7B76F6",
+        "financial_exposure": 15344.48,
+        "has_duplicate": false
+    },
+    "TXN-2B424803": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-2B424803",
+        "expected_ledger": "TXN-2B424803",
+        "expected_bank": "TXN-2B424803",
+        "financial_exposure": 35525.05,
+        "has_duplicate": false
+    },
+    "TXN-3F826944": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-3F826944",
+        "expected_ledger": "TXN-3F826944",
+        "expected_bank": "TXN-3F826944",
+        "financial_exposure": 28085.69,
+        "has_duplicate": false
+    },
+    "TXN-B80D9A9A": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-B80D9A9A",
+        "expected_ledger": "B80D9A9A",
+        "expected_bank": "GW/TXN-B80D9A9A",
+        "financial_exposure": 32511.94,
+        "has_duplicate": false
+    },
+    "TXN-2502C7E1": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-2502C7E1",
+        "expected_ledger": "TXN-2502C7E1",
+        "expected_bank": "TXN-2502C7E1",
+        "financial_exposure": 33846.76,
+        "has_duplicate": false
+    },
+    "TXN-F6AE4B6E": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-F6AE4B6E",
+        "expected_ledger": "TXN-F6AE4B6E",
+        "expected_bank": "TXN-F6AE4B6E",
+        "financial_exposure": 38203.97,
+        "has_duplicate": false
+    },
+    "TXN-0EE42D9F": {
+        "scenario": "LEDGER_ONLY_ORPHAN",
+        "expected_gateway": "TXN-0EE42D9F",
+        "expected_ledger": null,
+        "expected_bank": "TXN-0EE42D9F",
+        "financial_exposure": 45398.12,
+        "has_duplicate": false
+    },
+    "TXN-9B9B4BC1": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-9B9B4BC1",
+        "expected_ledger": "TXN-9B9B4BC1",
+        "expected_bank": "TXN-9B9B4BC1",
+        "financial_exposure": 9906.17,
+        "has_duplicate": false
+    },
+    "TXN-A53A7FBB": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-A53A7FBB",
+        "expected_ledger": "TXN-A53A7FBB",
+        "expected_bank": "TXN-A53A7FBB",
+        "financial_exposure": 30417.88,
+        "has_duplicate": false
+    },
+    "TXN-215CE65C": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-215CE65C",
+        "expected_ledger": "TXN-215CE65C",
+        "expected_bank": "TXN-215CE65C",
+        "financial_exposure": 38887.94,
+        "has_duplicate": false
+    },
+    "TXN-8B8E19C8": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-8B8E19C8",
+        "expected_ledger": "TXN-8B8E19C8",
+        "expected_bank": "TXN-8B8E19C8",
+        "financial_exposure": 25884.42,
+        "has_duplicate": false
+    },
+    "TXN-875A801C": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-875A801C",
+        "expected_ledger": "TXN-875A801C",
+        "expected_bank": "TXN-875A801C",
+        "financial_exposure": 15989.64,
+        "has_duplicate": false
+    },
+    "TXN-BAD45182": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-BAD45182",
+        "expected_ledger": "TXN-BAD45182",
+        "expected_bank": "TXN-BAD45182",
+        "financial_exposure": 27888.92,
+        "has_duplicate": false
+    },
+    "TXN-4A4A7B4F": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-4A4A7B4F",
+        "expected_ledger": "TXN-4A4A7B4F",
+        "expected_bank": "TXN-4A4A7B4F",
+        "financial_exposure": 16828.33,
+        "has_duplicate": false
+    },
+    "TXN-89EA7CEB": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-89EA7CEB",
+        "expected_ledger": "TXN-89EA7CEB",
+        "expected_bank": "TXN-89EA7CEB",
+        "financial_exposure": 47201.49,
+        "has_duplicate": false
+    },
+    "TXN-D11BC538": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-D11BC538",
+        "expected_ledger": "TXN-D11BC538",
+        "expected_bank": "TXN-D11BC538",
+        "financial_exposure": 37109.91,
+        "has_duplicate": false
+    },
+    "TXN-EF5DD78E": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-EF5DD78E",
+        "expected_ledger": "TXN-EF5DD78E",
+        "expected_bank": "TXN-EF5DD78E",
+        "financial_exposure": 36155.52,
+        "has_duplicate": false
+    },
+    "TXN-03129ED9": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-03129ED9",
+        "expected_ledger": "03129ED9",
+        "expected_bank": "03129ED9",
+        "financial_exposure": 26435.25,
+        "has_duplicate": false
+    },
+    "TXN-DAC33AC7": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-DAC33AC7",
+        "expected_ledger": "TXN-DAC33AC7",
+        "expected_bank": "TXN-DAC33AC7",
+        "financial_exposure": 31719.73,
+        "has_duplicate": false
+    },
+    "TXN-31269927": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-31269927",
+        "expected_ledger": "TXN-31269927",
+        "expected_bank": "TXN-31269927",
+        "financial_exposure": 18973.43,
+        "has_duplicate": false
+    },
+    "TXN-7D8C8304": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-7D8C8304",
+        "expected_ledger": "TXN-7D8C8304",
+        "expected_bank": "TXN-7D8C8304",
+        "financial_exposure": 1278.72,
+        "has_duplicate": false
+    },
+    "TXN-3FEC5E10": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-3FEC5E10",
+        "expected_ledger": "TXN-3FEC5E10",
+        "expected_bank": "TXN-3FEC5E10",
+        "financial_exposure": 14099.67,
+        "has_duplicate": false
+    },
+    "TXN-C9CAE1B2": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-C9CAE1B2",
+        "expected_ledger": "TXN-C9CAE1B2",
+        "expected_bank": "TXN-C9CAE1B2",
+        "financial_exposure": 45943.42,
+        "has_duplicate": false
+    },
+    "TXN-6023656A": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-6023656A",
+        "expected_ledger": "TXN-6023656A",
+        "expected_bank": "TXN-6023656A",
+        "financial_exposure": 12994.7,
+        "has_duplicate": false
+    },
+    "TXN-03CB5ED9": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-03CB5ED9",
+        "expected_ledger": "TXN-03CB5ED9",
+        "expected_bank": "TXN-03CB5ED9",
+        "financial_exposure": 47985.24,
+        "has_duplicate": false
+    },
+    "TXN-00A1C46C": {
+        "scenario": "BANK_ONLY_ORPHAN",
+        "expected_gateway": "TXN-00A1C46C",
+        "expected_ledger": "TXN-00A1C46C",
+        "expected_bank": null,
+        "financial_exposure": 42469.42,
+        "has_duplicate": false
+    },
+    "TXN-61CD825B": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-61CD825B",
+        "expected_ledger": "TXN-61CD825B",
+        "expected_bank": "TXN-61CD825B",
+        "financial_exposure": 19273.57,
+        "has_duplicate": false
+    },
+    "TXN-EC42D9EB": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-EC42D9EB",
+        "expected_ledger": "EC42D9EB",
+        "expected_bank": "EC42D9EB",
+        "financial_exposure": 42343.82,
+        "has_duplicate": false
+    },
+    "TXN-76F1EA0A": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-76F1EA0A",
+        "expected_ledger": "TXN-76F1EA0A",
+        "expected_bank": "TXN-76F1EA0A",
+        "financial_exposure": 43471.79,
+        "has_duplicate": false
+    },
+    "TXN-F6C55C85": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-F6C55C85",
+        "expected_ledger": "TXN-F6C55C85",
+        "expected_bank": "TXN-F6C55C85",
+        "financial_exposure": 14378.46,
+        "has_duplicate": false
+    },
+    "TXN-7E764C5F": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-7E764C5F",
+        "expected_ledger": "TXN-7E764C5F",
+        "expected_bank": "TXN-7E764C5F",
+        "financial_exposure": 48092.72,
+        "has_duplicate": false
+    },
+    "TXN-6F53B7CA": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-6F53B7CA",
+        "expected_ledger": "TXN-6F53B7CA",
+        "expected_bank": "TXN-6F53B7CA",
+        "financial_exposure": 8541.29,
+        "has_duplicate": false
+    },
+    "TXN-99EB4E81": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-99EB4E81",
+        "expected_ledger": "99EB4E81",
+        "expected_bank": "txn-99eb4e81",
+        "financial_exposure": 37902.66,
+        "has_duplicate": false
+    },
+    "TXN-EE39E4D7": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-EE39E4D7",
+        "expected_ledger": "TXN-EE39E4D7",
+        "expected_bank": "TXN-EE39E4D7",
+        "financial_exposure": 11991.13,
+        "has_duplicate": false
+    },
+    "TXN-08E95BAB": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-08E95BAB",
+        "expected_ledger": "TXN-08E95BAB",
+        "expected_bank": "TXN-08E95BAB",
+        "financial_exposure": 48461.57,
+        "has_duplicate": false
+    },
+    "TXN-4757AF25": {
+        "scenario": "LEDGER_ONLY_ORPHAN",
+        "expected_gateway": "TXN-4757AF25",
+        "expected_ledger": null,
+        "expected_bank": "TXN-4757AF25",
+        "financial_exposure": 11792.85,
+        "has_duplicate": false
+    },
+    "TXN-EB4850F4": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-EB4850F4",
+        "expected_ledger": "TXN-EB4850F4",
+        "expected_bank": "TXN-EB4850F4",
+        "financial_exposure": 29500.82,
+        "has_duplicate": false
+    },
+    "TXN-4F326982": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-4F326982",
+        "expected_ledger": "TXN-4F326982",
+        "expected_bank": "TXN-4F326982",
+        "financial_exposure": 12699.26,
+        "has_duplicate": false
+    },
+    "TXN-78997F78": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-78997F78",
+        "expected_ledger": "TXN-78997F78",
+        "expected_bank": "TXN-78997F78",
+        "financial_exposure": 39302.57,
+        "has_duplicate": false
+    },
+    "TXN-D6C2BF38": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-D6C2BF38",
+        "expected_ledger": "TXN-D6C2BF38",
+        "expected_bank": "TXN-D6C2BF38",
+        "financial_exposure": 757.16,
+        "has_duplicate": false
+    },
+    "TXN-9E6E1777": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-9E6E1777",
+        "expected_ledger": "TXN-9E6E1777",
+        "expected_bank": "TXN-9E6E1777",
+        "financial_exposure": 4821.21,
+        "has_duplicate": false
+    },
+    "TXN-09F8D6A4": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-09F8D6A4",
+        "expected_ledger": "TXN-09F8D6A4",
+        "expected_bank": "TXN-09F8D6A4",
+        "financial_exposure": 5613.0,
+        "has_duplicate": false
+    },
+    "TXN-10582654": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-10582654",
+        "expected_ledger": "TXN-10582654",
+        "expected_bank": "TXN-10582654",
+        "financial_exposure": 39329.72,
+        "has_duplicate": false
+    },
+    "TXN-AE524BC4": {
+        "scenario": "GATEWAY_ONLY_ORPHAN",
+        "expected_gateway": "TXN-AE524BC4",
+        "expected_ledger": null,
+        "expected_bank": null,
+        "financial_exposure": 39068.87,
+        "has_duplicate": false
+    },
+    "TXN-71F521D9": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-71F521D9",
+        "expected_ledger": "TXN-71F521D9",
+        "expected_bank": "TXN-71F521D9",
+        "financial_exposure": 8894.35,
+        "has_duplicate": false
+    },
+    "TXN-978501D0": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-978501D0",
+        "expected_ledger": "TXN-978501D0",
+        "expected_bank": "TXN-978501D0",
+        "financial_exposure": 24909.64,
+        "has_duplicate": false
+    },
+    "TXN-35B0B798": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-35B0B798",
+        "expected_ledger": "TXN-35B0B798",
+        "expected_bank": "TXN-35B0B798",
+        "financial_exposure": 24469.45,
+        "has_duplicate": false
+    },
+    "TXN-0319ED27": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-0319ED27",
+        "expected_ledger": "TXN-0319ED27",
+        "expected_bank": "TXN-0319ED27",
+        "financial_exposure": 25042.22,
+        "has_duplicate": false
+    },
+    "TXN-3727F3B8": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-3727F3B8",
+        "expected_ledger": "TXN-3727F3B8",
+        "expected_bank": "TXN-3727F3B8",
+        "financial_exposure": 834.98,
+        "has_duplicate": false
+    },
+    "TXN-41BF53BF": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-41BF53BF",
+        "expected_ledger": "TXN-41BF53BF",
+        "expected_bank": "TXN-41BF53BF",
+        "financial_exposure": 43178.82,
+        "has_duplicate": false
+    },
+    "TXN-E1B16B13": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-E1B16B13",
+        "expected_ledger": "TXN-E1B16B13",
+        "expected_bank": "TXN-E1B16B13",
+        "financial_exposure": 16372.93,
+        "has_duplicate": false
+    },
+    "TXN-CB1C1FE8": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-CB1C1FE8",
+        "expected_ledger": "TXN-CB1C1FE8",
+        "expected_bank": "TXN-CB1C1FE8",
+        "financial_exposure": 48451.9,
+        "has_duplicate": false
+    },
+    "TXN-234F5125": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-234F5125",
+        "expected_ledger": "TXN-234F5125",
+        "expected_bank": "TXN-234F5125",
+        "financial_exposure": 12500.0,
+        "has_duplicate": false
+    },
+    "TXN-8F1D8CB6": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-8F1D8CB6",
+        "expected_ledger": "TXN-8F1D8CB6",
+        "expected_bank": "TXN-8F1D8CB6",
+        "financial_exposure": 46637.32,
+        "has_duplicate": false
+    },
+    "TXN-E8C8910A": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-E8C8910A",
+        "expected_ledger": "TXN-E8C8910A",
+        "expected_bank": "TXN-E8C8910A",
+        "financial_exposure": 23350.3,
+        "has_duplicate": false
+    },
+    "TXN-372F151C": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-372F151C",
+        "expected_ledger": "TXN-372F151C ",
+        "expected_bank": "GW/TXN-372F151C",
+        "financial_exposure": 41038.8,
+        "has_duplicate": false
+    },
+    "TXN-7C6C6B34": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-7C6C6B34",
+        "expected_ledger": "TXN-7C6C6B34",
+        "expected_bank": "TXN-7C6C6B34",
+        "financial_exposure": 33103.82,
+        "has_duplicate": false
+    },
+    "TXN-23FEF0FF": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-23FEF0FF",
+        "expected_ledger": "TXN-23FEF0FF",
+        "expected_bank": "TXN-23FEF0FF",
+        "financial_exposure": 49539.68,
+        "has_duplicate": false
+    },
+    "TXN-DB56B371": {
+        "scenario": "DUPLICATE",
+        "expected_gateway": "TXN-DB56B371",
+        "expected_ledger": "TXN-DB56B371",
+        "expected_bank": "TXN-DB56B371",
+        "financial_exposure": 48437.19,
+        "has_duplicate": true
+    },
+    "TXN-59EDE001": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-59EDE001",
+        "expected_ledger": "txn-59ede001",
+        "expected_bank": "GW/TXN-59EDE001",
+        "financial_exposure": 45762.86,
+        "has_duplicate": false
+    },
+    "TXN-0045CF8A": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-0045CF8A",
+        "expected_ledger": "TXN-0045CF8A",
+        "expected_bank": "TXN-0045CF8A",
+        "financial_exposure": 49188.61,
+        "has_duplicate": false
+    },
+    "TXN-A294852D": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-A294852D",
+        "expected_ledger": "TXN-A294852D",
+        "expected_bank": "TXN-A294852D",
+        "financial_exposure": 5381.02,
+        "has_duplicate": false
+    },
+    "TXN-0EB8C866": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-0EB8C866",
+        "expected_ledger": "TXN-0EB8C866",
+        "expected_bank": "TXN-0EB8C866",
+        "financial_exposure": 23421.63,
+        "has_duplicate": false
+    },
+    "TXN-BBE6C902": {
+        "scenario": "GATEWAY_ONLY_ORPHAN",
+        "expected_gateway": "TXN-BBE6C902",
+        "expected_ledger": null,
+        "expected_bank": null,
+        "financial_exposure": 5675.19,
+        "has_duplicate": false
+    },
+    "TXN-0FB3CC08": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-0FB3CC08",
+        "expected_ledger": "TXN-0FB3CC08",
+        "expected_bank": "TXN-0FB3CC08",
+        "financial_exposure": 47063.47,
+        "has_duplicate": false
+    },
+    "TXN-523C1B01": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-523C1B01",
+        "expected_ledger": "TXN-523C1B01",
+        "expected_bank": "TXN-523C1B01",
+        "financial_exposure": 10739.93,
+        "has_duplicate": false
+    },
+    "TXN-B1D76B99": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-B1D76B99",
+        "expected_ledger": "TXN-B1D76B99",
+        "expected_bank": "TXN-B1D76B99",
+        "financial_exposure": 34989.78,
+        "has_duplicate": false
+    },
+    "TXN-8328799A": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-8328799A",
+        "expected_ledger": "TXN-8328799A",
+        "expected_bank": "TXN-8328799A",
+        "financial_exposure": 1617.96,
+        "has_duplicate": false
+    },
+    "TXN-78B5C38E": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-78B5C38E",
+        "expected_ledger": "TXN-78B5C38E",
+        "expected_bank": "TXN-78B5C38E",
+        "financial_exposure": 26041.7,
+        "has_duplicate": false
+    },
+    "TXN-660B9734": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-660B9734",
+        "expected_ledger": "TXN-660B9734",
+        "expected_bank": "TXN-660B9734",
+        "financial_exposure": 11976.85,
+        "has_duplicate": false
+    },
+    "TXN-28471165": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-28471165",
+        "expected_ledger": "TXN-28471165",
+        "expected_bank": "TXN-28471165",
+        "financial_exposure": 37000.72,
+        "has_duplicate": false
+    },
+    "TXN-22BBC6FB": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-22BBC6FB",
+        "expected_ledger": "TXN-22BBC6FB",
+        "expected_bank": "TXN-22BBC6FB",
+        "financial_exposure": 35384.41,
+        "has_duplicate": false
+    },
+    "TXN-DA1540E9": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-DA1540E9",
+        "expected_ledger": "TXN-DA1540E9",
+        "expected_bank": "TXN-DA1540E9",
+        "financial_exposure": 40075.37,
+        "has_duplicate": false
+    },
+    "TXN-AFFFDD4C": {
+        "scenario": "DUPLICATE",
+        "expected_gateway": "TXN-AFFFDD4C",
+        "expected_ledger": "TXN-AFFFDD4C",
+        "expected_bank": "TXN-AFFFDD4C",
+        "financial_exposure": 6140.77,
+        "has_duplicate": true
+    },
+    "TXN-8582E8A3": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-8582E8A3",
+        "expected_ledger": "TXN-8582E8A3",
+        "expected_bank": "TXN-8582E8A3",
+        "financial_exposure": 30050.06,
+        "has_duplicate": false
+    },
+    "TXN-2513125D": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-2513125D",
+        "expected_ledger": "TXN-2513125D",
+        "expected_bank": "TXN-2513125D",
+        "financial_exposure": 42353.13,
+        "has_duplicate": false
+    },
+    "TXN-49C12D84": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-49C12D84",
+        "expected_ledger": "TXN-49C12D84",
+        "expected_bank": "TXN-49C12D84",
+        "financial_exposure": 4695.22,
+        "has_duplicate": false
+    },
+    "TXN-38099F95": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-38099F95",
+        "expected_ledger": "TXN-38099F95",
+        "expected_bank": "TXN-38099F95",
+        "financial_exposure": 9560.7,
+        "has_duplicate": false
+    },
+    "TXN-9650BFD4": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-9650BFD4",
+        "expected_ledger": "TXN-9650BFD4",
+        "expected_bank": "TXN-9650BFD4",
+        "financial_exposure": 7324.43,
+        "has_duplicate": false
+    },
+    "TXN-DD95D148": {
+        "scenario": "GATEWAY_ONLY_ORPHAN",
+        "expected_gateway": "TXN-DD95D148",
+        "expected_ledger": null,
+        "expected_bank": null,
+        "financial_exposure": 34824.93,
+        "has_duplicate": false
+    },
+    "TXN-3484894F": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-3484894F",
+        "expected_ledger": "TXN-3484894F",
+        "expected_bank": "TXN-3484894F",
+        "financial_exposure": 24737.28,
+        "has_duplicate": false
+    },
+    "TXN-57757C81": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-57757C81",
+        "expected_ledger": "TXN-57757C81",
+        "expected_bank": "TXN-57757C81",
+        "financial_exposure": 43343.35,
+        "has_duplicate": false
+    },
+    "TXN-C2A39743": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-C2A39743",
+        "expected_ledger": "TXN-C2A39743",
+        "expected_bank": "TXN-C2A39743",
+        "financial_exposure": 32826.95,
+        "has_duplicate": false
+    },
+    "TXN-0BE9759B": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-0BE9759B",
+        "expected_ledger": "GW/TXN-0BE9759B",
+        "expected_bank": "txn-0be9759b",
+        "financial_exposure": 4592.2,
+        "has_duplicate": false
+    },
+    "TXN-125D324C": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-125D324C",
+        "expected_ledger": "TXN-125D324C ",
+        "expected_bank": "125D324C",
+        "financial_exposure": 27111.63,
+        "has_duplicate": false
+    },
+    "TXN-5888394B": {
+        "scenario": "BANK_ONLY_ORPHAN",
+        "expected_gateway": "TXN-5888394B",
+        "expected_ledger": "TXN-5888394B",
+        "expected_bank": null,
+        "financial_exposure": 38868.09,
+        "has_duplicate": false
+    },
+    "TXN-2F5453B2": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-2F5453B2",
+        "expected_ledger": "TXN-2F5453B2",
+        "expected_bank": "TXN-2F5453B2",
+        "financial_exposure": 36089.52,
+        "has_duplicate": false
+    },
+    "TXN-7248C0CF": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-7248C0CF",
+        "expected_ledger": "TXN-7248C0CF",
+        "expected_bank": "TXN-7248C0CF",
+        "financial_exposure": 41588.5,
+        "has_duplicate": false
+    },
+    "TXN-37923939": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-37923939",
+        "expected_ledger": "TXN-37923939",
+        "expected_bank": "TXN-37923939",
+        "financial_exposure": 17754.56,
+        "has_duplicate": false
+    },
+    "TXN-95BFB73B": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-95BFB73B",
+        "expected_ledger": "TXN-95BFB73B",
+        "expected_bank": "TXN-95BFB73B",
+        "financial_exposure": 40629.78,
+        "has_duplicate": false
+    },
+    "TXN-4613E02E": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-4613E02E",
+        "expected_ledger": "GW/TXN-4613E02E",
+        "expected_bank": "4613E02E",
+        "financial_exposure": 8716.09,
+        "has_duplicate": false
+    },
+    "TXN-607C7661": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-607C7661",
+        "expected_ledger": "TXN-607C7661",
+        "expected_bank": "TXN-607C7661",
+        "financial_exposure": 14413.71,
+        "has_duplicate": false
+    },
+    "TXN-9451A4BD": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-9451A4BD",
+        "expected_ledger": "TXN-9451A4BD",
+        "expected_bank": "TXN-9451A4BD",
+        "financial_exposure": 13733.48,
+        "has_duplicate": false
+    },
+    "TXN-5E2CE5B3": {
+        "scenario": "DUPLICATE",
+        "expected_gateway": "TXN-5E2CE5B3",
+        "expected_ledger": "TXN-5E2CE5B3",
+        "expected_bank": "TXN-5E2CE5B3",
+        "financial_exposure": 3434.65,
+        "has_duplicate": true
+    },
+    "TXN-1C7B9D73": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-1C7B9D73",
+        "expected_ledger": "TXN-1C7B9D73",
+        "expected_bank": "TXN-1C7B9D73",
+        "financial_exposure": 7068.2,
+        "has_duplicate": false
+    },
+    "TXN-E171F0EC": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-E171F0EC",
+        "expected_ledger": "TXN-E171F0EC",
+        "expected_bank": "TXN-E171F0EC",
+        "financial_exposure": 29082.56,
+        "has_duplicate": false
+    },
+    "TXN-434A6F08": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-434A6F08",
+        "expected_ledger": "TXN-434A6F08",
+        "expected_bank": "TXN-434A6F08",
+        "financial_exposure": 39832.63,
+        "has_duplicate": false
+    },
+    "TXN-A362C5BE": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-A362C5BE",
+        "expected_ledger": "TXN-A362C5BE",
+        "expected_bank": "TXN-A362C5BE",
+        "financial_exposure": 34887.83,
+        "has_duplicate": false
+    },
+    "TXN-266CB68E": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-266CB68E",
+        "expected_ledger": "266CB68E",
+        "expected_bank": "TXN-266CB68E ",
+        "financial_exposure": 622.42,
+        "has_duplicate": false
+    },
+    "TXN-553B968D": {
+        "scenario": "LEDGER_ONLY_ORPHAN",
+        "expected_gateway": "TXN-553B968D",
+        "expected_ledger": null,
+        "expected_bank": "TXN-553B968D",
+        "financial_exposure": 26954.01,
+        "has_duplicate": false
+    },
+    "TXN-D79C5480": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-D79C5480",
+        "expected_ledger": "TXN-D79C5480",
+        "expected_bank": "TXN-D79C5480",
+        "financial_exposure": 16481.82,
+        "has_duplicate": false
+    },
+    "TXN-3436D60D": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-3436D60D",
+        "expected_ledger": "TXN-3436D60D",
+        "expected_bank": "TXN-3436D60D",
+        "financial_exposure": 42694.92,
+        "has_duplicate": false
+    },
+    "TXN-973BEFFB": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-973BEFFB",
+        "expected_ledger": "TXN-973BEFFB",
+        "expected_bank": "TXN-973BEFFB",
+        "financial_exposure": 31495.89,
+        "has_duplicate": false
+    },
+    "TXN-C6A7EB88": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-C6A7EB88",
+        "expected_ledger": "TXN-C6A7EB88",
+        "expected_bank": "TXN-C6A7EB88",
+        "financial_exposure": 533.46,
+        "has_duplicate": false
+    },
+    "TXN-895E4D2F": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-895E4D2F",
+        "expected_ledger": "TXN-895E4D2F",
+        "expected_bank": "TXN-895E4D2F",
+        "financial_exposure": 8369.38,
+        "has_duplicate": false
+    },
+    "TXN-83CE411A": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-83CE411A",
+        "expected_ledger": "TXN-83CE411A",
+        "expected_bank": "TXN-83CE411A",
+        "financial_exposure": 18906.27,
+        "has_duplicate": false
+    },
+    "TXN-5C1D4AEE": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-5C1D4AEE",
+        "expected_ledger": "TXN-5C1D4AEE",
+        "expected_bank": "TXN-5C1D4AEE",
+        "financial_exposure": 36436.42,
+        "has_duplicate": false
+    },
+    "TXN-25E67339": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-25E67339",
+        "expected_ledger": "TXN-25E67339",
+        "expected_bank": "TXN-25E67339",
+        "financial_exposure": 553.77,
+        "has_duplicate": false
+    },
+    "TXN-7B282FB4": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-7B282FB4",
+        "expected_ledger": "TXN-7B282FB4",
+        "expected_bank": "TXN-7B282FB4",
+        "financial_exposure": 34159.14,
+        "has_duplicate": false
+    },
+    "TXN-250E4E0A": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-250E4E0A",
+        "expected_ledger": "TXN-250E4E0A",
+        "expected_bank": "TXN-250E4E0A",
+        "financial_exposure": 21404.54,
+        "has_duplicate": false
+    },
+    "TXN-431FF4A7": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-431FF4A7",
+        "expected_ledger": "TXN-431FF4A7",
+        "expected_bank": "TXN-431FF4A7",
+        "financial_exposure": 40394.86,
+        "has_duplicate": false
+    },
+    "TXN-B3058101": {
+        "scenario": "DUPLICATE",
+        "expected_gateway": "TXN-B3058101",
+        "expected_ledger": "TXN-B3058101",
+        "expected_bank": "TXN-B3058101",
+        "financial_exposure": 38786.29,
+        "has_duplicate": true
+    },
+    "TXN-25490218": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-25490218",
+        "expected_ledger": "TXN-25490218",
+        "expected_bank": "TXN-25490218",
+        "financial_exposure": 28382.92,
+        "has_duplicate": false
+    },
+    "TXN-CF3DD16B": {
+        "scenario": "GATEWAY_ONLY_ORPHAN",
+        "expected_gateway": "TXN-CF3DD16B",
+        "expected_ledger": null,
+        "expected_bank": null,
+        "financial_exposure": 31589.96,
+        "has_duplicate": false
+    },
+    "TXN-FEC53AAD": {
+        "scenario": "DUPLICATE",
+        "expected_gateway": "TXN-FEC53AAD",
+        "expected_ledger": "TXN-FEC53AAD",
+        "expected_bank": "TXN-FEC53AAD",
+        "financial_exposure": 43068.14,
+        "has_duplicate": true
+    },
+    "TXN-6B6A58E7": {
+        "scenario": "LEDGER_ONLY_ORPHAN",
+        "expected_gateway": "TXN-6B6A58E7",
+        "expected_ledger": null,
+        "expected_bank": "TXN-6B6A58E7",
+        "financial_exposure": 36635.45,
+        "has_duplicate": false
+    },
+    "TXN-76ACE8CD": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-76ACE8CD",
+        "expected_ledger": "TXN-76ACE8CD",
+        "expected_bank": "TXN-76ACE8CD",
+        "financial_exposure": 14209.9,
+        "has_duplicate": false
+    },
+    "TXN-D3411100": {
+        "scenario": "LEDGER_ONLY_ORPHAN",
+        "expected_gateway": "TXN-D3411100",
+        "expected_ledger": null,
+        "expected_bank": "TXN-D3411100",
+        "financial_exposure": 30575.86,
+        "has_duplicate": false
+    },
+    "TXN-77E5A8D0": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-77E5A8D0",
+        "expected_ledger": "TXN-77E5A8D0",
+        "expected_bank": "TXN-77E5A8D0",
+        "financial_exposure": 15431.64,
+        "has_duplicate": false
+    },
+    "TXN-AE357703": {
+        "scenario": "LEDGER_ONLY_ORPHAN",
+        "expected_gateway": "TXN-AE357703",
+        "expected_ledger": null,
+        "expected_bank": "TXN-AE357703",
+        "financial_exposure": 3201.17,
+        "has_duplicate": false
+    },
+    "TXN-0A715AB6": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-0A715AB6",
+        "expected_ledger": "TXN-0A715AB6",
+        "expected_bank": "TXN-0A715AB6",
+        "financial_exposure": 12433.55,
+        "has_duplicate": false
+    },
+    "TXN-E80305D7": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-E80305D7",
+        "expected_ledger": "TXN-E80305D7",
+        "expected_bank": "TXN-E80305D7",
+        "financial_exposure": 19648.49,
+        "has_duplicate": false
+    },
+    "TXN-D0C4FD85": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-D0C4FD85",
+        "expected_ledger": "TXN-D0C4FD85",
+        "expected_bank": "TXN-D0C4FD85",
+        "financial_exposure": 38254.93,
+        "has_duplicate": false
+    },
+    "TXN-6F0A2D6E": {
+        "scenario": "GATEWAY_ONLY_ORPHAN",
+        "expected_gateway": "TXN-6F0A2D6E",
+        "expected_ledger": null,
+        "expected_bank": null,
+        "financial_exposure": 13478.17,
+        "has_duplicate": false
+    },
+    "TXN-1F7C7BDF": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-1F7C7BDF",
+        "expected_ledger": "TXN-1F7C7BDF ",
+        "expected_bank": "TXN-1F7C7BDF ",
+        "financial_exposure": 31614.25,
+        "has_duplicate": false
+    },
+    "TXN-955F94E9": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-955F94E9",
+        "expected_ledger": "TXN-955F94E9",
+        "expected_bank": "TXN-955F94E9",
+        "financial_exposure": 27113.94,
+        "has_duplicate": false
+    },
+    "TXN-88FAA56E": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-88FAA56E",
+        "expected_ledger": "TXN-88FAA56E",
+        "expected_bank": "TXN-88FAA56E",
+        "financial_exposure": 46085.78,
+        "has_duplicate": false
+    },
+    "TXN-AF380C19": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-AF380C19",
+        "expected_ledger": "TXN-AF380C19",
+        "expected_bank": "TXN-AF380C19",
+        "financial_exposure": 31897.57,
+        "has_duplicate": false
+    },
+    "TXN-1D7BADB2": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-1D7BADB2",
+        "expected_ledger": "TXN-1D7BADB2",
+        "expected_bank": "TXN-1D7BADB2",
+        "financial_exposure": 22155.56,
+        "has_duplicate": false
+    },
+    "TXN-8A9B1BC0": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-8A9B1BC0",
+        "expected_ledger": "TXN-8A9B1BC0",
+        "expected_bank": "TXN-8A9B1BC0",
+        "financial_exposure": 22006.94,
+        "has_duplicate": false
+    },
+    "TXN-0A208269": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-0A208269",
+        "expected_ledger": "TXN-0A208269",
+        "expected_bank": "TXN-0A208269",
+        "financial_exposure": 33073.59,
+        "has_duplicate": false
+    },
+    "TXN-62AFFC12": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-62AFFC12",
+        "expected_ledger": "TXN-62AFFC12",
+        "expected_bank": "TXN-62AFFC12",
+        "financial_exposure": 8609.72,
+        "has_duplicate": false
+    },
+    "TXN-A83BEF60": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-A83BEF60",
+        "expected_ledger": "TXN-A83BEF60",
+        "expected_bank": "TXN-A83BEF60",
+        "financial_exposure": 37613.93,
+        "has_duplicate": false
+    },
+    "TXN-0FEECAFF": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-0FEECAFF",
+        "expected_ledger": "TXN-0FEECAFF",
+        "expected_bank": "TXN-0FEECAFF",
+        "financial_exposure": 40451.84,
+        "has_duplicate": false
+    },
+    "TXN-AB88DA6F": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-AB88DA6F",
+        "expected_ledger": "TXN-AB88DA6F",
+        "expected_bank": "TXN-AB88DA6F",
+        "financial_exposure": 25059.3,
+        "has_duplicate": false
+    },
+    "TXN-7F1DC0F0": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-7F1DC0F0",
+        "expected_ledger": "7F1DC0F0",
+        "expected_bank": "GW/TXN-7F1DC0F0",
+        "financial_exposure": 18700.55,
+        "has_duplicate": false
+    },
+    "TXN-D7E72071": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-D7E72071",
+        "expected_ledger": "TXN-D7E72071",
+        "expected_bank": "TXN-D7E72071",
+        "financial_exposure": 43005.11,
+        "has_duplicate": false
+    },
+    "TXN-FDEB689F": {
+        "scenario": "GATEWAY_ONLY_ORPHAN",
+        "expected_gateway": "TXN-FDEB689F",
+        "expected_ledger": null,
+        "expected_bank": null,
+        "financial_exposure": 46051.21,
+        "has_duplicate": false
+    },
+    "TXN-7D427A02": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-7D427A02",
+        "expected_ledger": "TXN-7D427A02",
+        "expected_bank": "TXN-7D427A02",
+        "financial_exposure": 45740.41,
+        "has_duplicate": false
+    },
+    "TXN-AB07FC5B": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-AB07FC5B",
+        "expected_ledger": "TXN-AB07FC5B",
+        "expected_bank": "TXN-AB07FC5B",
+        "financial_exposure": 45834.81,
+        "has_duplicate": false
+    },
+    "TXN-A781EE98": {
+        "scenario": "GATEWAY_ONLY_ORPHAN",
+        "expected_gateway": "TXN-A781EE98",
+        "expected_ledger": null,
+        "expected_bank": null,
+        "financial_exposure": 6410.35,
+        "has_duplicate": false
+    },
+    "TXN-AD1945BB": {
+        "scenario": "LEDGER_ONLY_ORPHAN",
+        "expected_gateway": "TXN-AD1945BB",
+        "expected_ledger": null,
+        "expected_bank": "TXN-AD1945BB",
+        "financial_exposure": 26030.82,
+        "has_duplicate": false
+    },
+    "TXN-C7EA6F4D": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-C7EA6F4D",
+        "expected_ledger": "TXN-C7EA6F4D",
+        "expected_bank": "TXN-C7EA6F4D",
+        "financial_exposure": 14474.19,
+        "has_duplicate": false
+    },
+    "TXN-B57F8A09": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-B57F8A09",
+        "expected_ledger": "TXN-B57F8A09",
+        "expected_bank": "TXN-B57F8A09",
+        "financial_exposure": 894.47,
+        "has_duplicate": false
+    },
+    "TXN-94C256DB": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-94C256DB",
+        "expected_ledger": "TXN-94C256DB",
+        "expected_bank": "TXN-94C256DB",
+        "financial_exposure": 12507.91,
+        "has_duplicate": false
+    },
+    "TXN-E6E35142": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-E6E35142",
+        "expected_ledger": "TXN-E6E35142",
+        "expected_bank": "TXN-E6E35142",
+        "financial_exposure": 27554.68,
+        "has_duplicate": false
+    },
+    "TXN-AFD82A69": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-AFD82A69",
+        "expected_ledger": "TXN-AFD82A69",
+        "expected_bank": "TXN-AFD82A69",
+        "financial_exposure": 12033.39,
+        "has_duplicate": false
+    },
+    "TXN-1419F6EC": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-1419F6EC",
+        "expected_ledger": "txn-1419f6ec",
+        "expected_bank": "1419F6EC",
+        "financial_exposure": 38066.99,
+        "has_duplicate": false
+    },
+    "TXN-04F99C7B": {
+        "scenario": "BANK_ONLY_ORPHAN",
+        "expected_gateway": "TXN-04F99C7B",
+        "expected_ledger": "TXN-04F99C7B",
+        "expected_bank": null,
+        "financial_exposure": 21280.88,
+        "has_duplicate": false
+    },
+    "TXN-7885B93F": {
+        "scenario": "DUPLICATE",
+        "expected_gateway": "TXN-7885B93F",
+        "expected_ledger": "TXN-7885B93F",
+        "expected_bank": "TXN-7885B93F",
+        "financial_exposure": 5104.82,
+        "has_duplicate": true
+    },
+    "TXN-2B8C625F": {
+        "scenario": "BANK_ONLY_ORPHAN",
+        "expected_gateway": "TXN-2B8C625F",
+        "expected_ledger": "TXN-2B8C625F",
+        "expected_bank": null,
+        "financial_exposure": 44831.11,
+        "has_duplicate": false
+    },
+    "TXN-DAFE541D": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-DAFE541D",
+        "expected_ledger": "DAFE541D",
+        "expected_bank": "DAFE541D",
+        "financial_exposure": 25518.67,
+        "has_duplicate": false
+    },
+    "TXN-03AF3E85": {
+        "scenario": "DUPLICATE",
+        "expected_gateway": "TXN-03AF3E85",
+        "expected_ledger": "TXN-03AF3E85",
+        "expected_bank": "TXN-03AF3E85",
+        "financial_exposure": 12220.2,
+        "has_duplicate": true
+    },
+    "TXN-3FC2283B": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-3FC2283B",
+        "expected_ledger": "TXN-3FC2283B",
+        "expected_bank": "TXN-3FC2283B",
+        "financial_exposure": 36899.97,
+        "has_duplicate": false
+    },
+    "TXN-891351FD": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-891351FD",
+        "expected_ledger": "TXN-891351FD",
+        "expected_bank": "TXN-891351FD",
+        "financial_exposure": 39106.88,
+        "has_duplicate": false
+    },
+    "TXN-AAF23A23": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-AAF23A23",
+        "expected_ledger": "TXN-AAF23A23",
+        "expected_bank": "TXN-AAF23A23",
+        "financial_exposure": 23569.73,
+        "has_duplicate": false
+    },
+    "TXN-CF6245C6": {
+        "scenario": "DUPLICATE",
+        "expected_gateway": "TXN-CF6245C6",
+        "expected_ledger": "TXN-CF6245C6",
+        "expected_bank": "TXN-CF6245C6",
+        "financial_exposure": 15761.23,
+        "has_duplicate": true
+    },
+    "TXN-0911AEEC": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-0911AEEC",
+        "expected_ledger": "TXN-0911AEEC",
+        "expected_bank": "TXN-0911AEEC",
+        "financial_exposure": 34459.71,
+        "has_duplicate": false
+    },
+    "TXN-52315868": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-52315868",
+        "expected_ledger": "TXN-52315868",
+        "expected_bank": "TXN-52315868",
+        "financial_exposure": 42900.38,
+        "has_duplicate": false
+    },
+    "TXN-9F9043EF": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-9F9043EF",
+        "expected_ledger": "TXN-9F9043EF",
+        "expected_bank": "TXN-9F9043EF",
+        "financial_exposure": 25916.25,
+        "has_duplicate": false
+    },
+    "TXN-D0FC258D": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-D0FC258D",
+        "expected_ledger": "TXN-D0FC258D",
+        "expected_bank": "TXN-D0FC258D",
+        "financial_exposure": 42802.76,
+        "has_duplicate": false
+    },
+    "TXN-2AFE4C8B": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-2AFE4C8B",
+        "expected_ledger": "TXN-2AFE4C8B",
+        "expected_bank": "TXN-2AFE4C8B",
+        "financial_exposure": 40292.89,
+        "has_duplicate": false
+    },
+    "TXN-085CDD61": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-085CDD61",
+        "expected_ledger": "TXN-085CDD61",
+        "expected_bank": "TXN-085CDD61",
+        "financial_exposure": 10307.59,
+        "has_duplicate": false
+    },
+    "TXN-829C1B20": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-829C1B20",
+        "expected_ledger": "TXN-829C1B20",
+        "expected_bank": "TXN-829C1B20",
+        "financial_exposure": 13311.62,
+        "has_duplicate": false
+    },
+    "TXN-C655BBE4": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-C655BBE4",
+        "expected_ledger": "TXN-C655BBE4",
+        "expected_bank": "TXN-C655BBE4",
+        "financial_exposure": 32476.35,
+        "has_duplicate": false
+    },
+    "TXN-1892130E": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-1892130E",
+        "expected_ledger": "TXN-1892130E",
+        "expected_bank": "TXN-1892130E",
+        "financial_exposure": 47142.89,
+        "has_duplicate": false
+    },
+    "TXN-EE3C8E9D": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-EE3C8E9D",
+        "expected_ledger": "TXN-EE3C8E9D",
+        "expected_bank": "TXN-EE3C8E9D",
+        "financial_exposure": 36359.33,
+        "has_duplicate": false
+    },
+    "TXN-5C572BAF": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-5C572BAF",
+        "expected_ledger": "TXN-5C572BAF",
+        "expected_bank": "TXN-5C572BAF",
+        "financial_exposure": 11128.45,
+        "has_duplicate": false
+    },
+    "TXN-6EC5C0AE": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-6EC5C0AE",
+        "expected_ledger": "TXN-6EC5C0AE",
+        "expected_bank": "TXN-6EC5C0AE",
+        "financial_exposure": 30898.28,
+        "has_duplicate": false
+    },
+    "TXN-4D07980A": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-4D07980A",
+        "expected_ledger": "TXN-4D07980A",
+        "expected_bank": "TXN-4D07980A",
+        "financial_exposure": 44197.54,
+        "has_duplicate": false
+    },
+    "TXN-336F3427": {
+        "scenario": "DUPLICATE",
+        "expected_gateway": "TXN-336F3427",
+        "expected_ledger": "TXN-336F3427",
+        "expected_bank": "TXN-336F3427",
+        "financial_exposure": 21252.12,
+        "has_duplicate": true
+    },
+    "TXN-BF849A71": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-BF849A71",
+        "expected_ledger": "TXN-BF849A71 ",
+        "expected_bank": "txn-bf849a71",
+        "financial_exposure": 49707.32,
+        "has_duplicate": false
+    },
+    "TXN-B9EC5A07": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-B9EC5A07",
+        "expected_ledger": "TXN-B9EC5A07",
+        "expected_bank": "TXN-B9EC5A07",
+        "financial_exposure": 24491.63,
+        "has_duplicate": false
+    },
+    "TXN-CD92F787": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-CD92F787",
+        "expected_ledger": "TXN-CD92F787",
+        "expected_bank": "TXN-CD92F787",
+        "financial_exposure": 16284.44,
+        "has_duplicate": false
+    },
+    "TXN-44A16438": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-44A16438",
+        "expected_ledger": "TXN-44A16438",
+        "expected_bank": "TXN-44A16438",
+        "financial_exposure": 49580.8,
+        "has_duplicate": false
+    },
+    "TXN-0757ABEA": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-0757ABEA",
+        "expected_ledger": "TXN-0757ABEA",
+        "expected_bank": "TXN-0757ABEA",
+        "financial_exposure": 5456.65,
+        "has_duplicate": false
+    },
+    "TXN-4BD57218": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-4BD57218",
+        "expected_ledger": "TXN-4BD57218",
+        "expected_bank": "TXN-4BD57218",
+        "financial_exposure": 38320.46,
+        "has_duplicate": false
+    },
+    "TXN-838B438D": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-838B438D",
+        "expected_ledger": "txn-838b438d",
+        "expected_bank": "838B438D",
+        "financial_exposure": 12209.28,
+        "has_duplicate": false
+    },
+    "TXN-B4DE1B95": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-B4DE1B95",
+        "expected_ledger": "TXN-B4DE1B95 ",
+        "expected_bank": "txn-b4de1b95",
+        "financial_exposure": 7534.06,
+        "has_duplicate": false
+    },
+    "TXN-338D3D7D": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-338D3D7D",
+        "expected_ledger": "TXN-338D3D7D",
+        "expected_bank": "TXN-338D3D7D",
+        "financial_exposure": 4967.74,
+        "has_duplicate": false
+    },
+    "TXN-0AFB21F8": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-0AFB21F8",
+        "expected_ledger": "TXN-0AFB21F8",
+        "expected_bank": "TXN-0AFB21F8",
+        "financial_exposure": 16920.83,
+        "has_duplicate": false
+    },
+    "TXN-FBB1182D": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-FBB1182D",
+        "expected_ledger": "txn-fbb1182d",
+        "expected_bank": "FBB1182D",
+        "financial_exposure": 9284.26,
+        "has_duplicate": false
+    },
+    "TXN-1515F2E4": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-1515F2E4",
+        "expected_ledger": "txn-1515f2e4",
+        "expected_bank": "1515F2E4",
+        "financial_exposure": 35382.47,
+        "has_duplicate": false
+    },
+    "TXN-38ABB611": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-38ABB611",
+        "expected_ledger": "TXN-38ABB611",
+        "expected_bank": "TXN-38ABB611",
+        "financial_exposure": 20081.98,
+        "has_duplicate": false
+    },
+    "TXN-87C14867": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-87C14867",
+        "expected_ledger": "TXN-87C14867 ",
+        "expected_bank": "txn-87c14867",
+        "financial_exposure": 36751.43,
+        "has_duplicate": false
+    },
+    "TXN-F315CAFB": {
+        "scenario": "REFERENCE_VARIANCE",
+        "expected_gateway": "TXN-F315CAFB",
+        "expected_ledger": "GW/TXN-F315CAFB",
+        "expected_bank": "GW/TXN-F315CAFB",
+        "financial_exposure": 34831.24,
+        "has_duplicate": false
+    },
+    "TXN-0562A9A6": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-0562A9A6",
+        "expected_ledger": "TXN-0562A9A6",
+        "expected_bank": "TXN-0562A9A6",
+        "financial_exposure": 34580.67,
+        "has_duplicate": false
+    },
+    "TXN-E26148CA": {
+        "scenario": "LEDGER_ONLY_ORPHAN",
+        "expected_gateway": "TXN-E26148CA",
+        "expected_ledger": null,
+        "expected_bank": "TXN-E26148CA",
+        "financial_exposure": 19884.27,
+        "has_duplicate": false
+    },
+    "TXN-AE1F4490": {
+        "scenario": "LEDGER_ONLY_ORPHAN",
+        "expected_gateway": "TXN-AE1F4490",
+        "expected_ledger": null,
+        "expected_bank": "TXN-AE1F4490",
+        "financial_exposure": 16251.74,
+        "has_duplicate": false
+    },
+    "TXN-98AB4D37": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-98AB4D37",
+        "expected_ledger": "TXN-98AB4D37",
+        "expected_bank": "TXN-98AB4D37",
+        "financial_exposure": 5653.46,
+        "has_duplicate": false
+    },
+    "TXN-E3012F64": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-E3012F64",
+        "expected_ledger": "TXN-E3012F64",
+        "expected_bank": "TXN-E3012F64",
+        "financial_exposure": 49127.79,
+        "has_duplicate": false
+    },
+    "TXN-124EEE60": {
+        "scenario": "FEE_VARIANCE",
+        "expected_gateway": "TXN-124EEE60",
+        "expected_ledger": "TXN-124EEE60",
+        "expected_bank": "TXN-124EEE60",
+        "financial_exposure": 13628.02,
+        "has_duplicate": false
+    },
+    "TXN-0287D5FA": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-0287D5FA",
+        "expected_ledger": "TXN-0287D5FA",
+        "expected_bank": "TXN-0287D5FA",
+        "financial_exposure": 563.42,
+        "has_duplicate": false
+    },
+    "TXN-14C3D2A4": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-14C3D2A4",
+        "expected_ledger": "TXN-14C3D2A4",
+        "expected_bank": "TXN-14C3D2A4",
+        "financial_exposure": 20993.95,
+        "has_duplicate": false
+    },
+    "TXN-05630782": {
+        "scenario": "TIMING_DRIFT",
+        "expected_gateway": "TXN-05630782",
+        "expected_ledger": "TXN-05630782",
+        "expected_bank": "TXN-05630782",
+        "financial_exposure": 24234.72,
+        "has_duplicate": false
+    },
+    "TXN-BDA985A8": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-BDA985A8",
+        "expected_ledger": "TXN-BDA985A8",
+        "expected_bank": "TXN-BDA985A8",
+        "financial_exposure": 40060.13,
+        "has_duplicate": false
+    },
+    "TXN-63554140": {
+        "scenario": "DUPLICATE",
+        "expected_gateway": "TXN-63554140",
+        "expected_ledger": "TXN-63554140",
+        "expected_bank": "TXN-63554140",
+        "financial_exposure": 4172.92,
+        "has_duplicate": true
+    },
+    "TXN-DC94AE76": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-DC94AE76",
+        "expected_ledger": "TXN-DC94AE76",
+        "expected_bank": "TXN-DC94AE76",
+        "financial_exposure": 27578.79,
+        "has_duplicate": false
+    },
+    "TXN-17ED7134": {
+        "scenario": "EXACT_MATCH",
+        "expected_gateway": "TXN-17ED7134",
+        "expected_ledger": "TXN-17ED7134",
+        "expected_bank": "TXN-17ED7134",
+        "financial_exposure": 2034.16,
+        "has_duplicate": false
+    }
+}
